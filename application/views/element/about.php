@@ -8,7 +8,7 @@
                         <a class="animated fadeIn" href="#tab_a" data-toggle="tab">
                             <span class="tab-icon"><i class="fa fa-info"></i></span>
                             <div class="tab-info">
-                                <h3>Who Are We</h3>
+                                <h3>我们的宏明</h3>
                             </div>
                         </a>
                     </li>
@@ -16,7 +16,7 @@
                         <a class="animated fadeIn" href="#tab_b" data-toggle="tab">
                             <span class="tab-icon"><i class="fa fa-briefcase"></i></span>
                             <div class="tab-info">
-                                <h3>Our Company</h3>
+                                <h3>我们的团队</h3>
                             </div>
                         </a>
                     </li>
@@ -24,7 +24,7 @@
                         <a class="animated fadeIn" href="#tab_c" data-toggle="tab">
                             <span class="tab-icon"><i class="fa fa-android"></i></span>
                             <div class="tab-info">
-                                <h3>What We Do</h3>
+                                <h3>我们的实力</h3>
                             </div>
                         </a>
                     </li>
@@ -32,7 +32,7 @@
                         <a class="animated fadeIn" href="#tab_d" data-toggle="tab">
                             <span class="tab-icon"><i class="fa fa-pagelines"></i></span>
                             <div class="tab-info">
-                                <h3>Modern Design</h3>
+                                <h3>我们的产品</h3>
                             </div>
                         </a>
                     </li>
@@ -40,7 +40,7 @@
                         <a class="animated fadeIn" href="#tab_e" data-toggle="tab">
                             <span class="tab-icon"><i class="fa fa-support"></i></span>
                             <div class="tab-info">
-                                <h3>Dedicated Support</h3>
+                                <h3>我们的服务</h3>
                             </div>
                         </a>
                     </li>

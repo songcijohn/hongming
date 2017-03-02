@@ -22,4 +22,19 @@ class Hongming extends CI_Controller {
 	{
 		$this->load->view('index');
 	}
+        
+        public function product()
+	{
+		$this->load->view('product');
+	}
+        
+        public function news()
+	{
+		$this->load->view('news');
+	}
+        
+        public function contact()
+	{
+		$this->load->view('contact');
+	}
 }

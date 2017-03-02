@@ -7,7 +7,7 @@
                 <div class="facts-num">
                     <span class="counter">1200</span>
                 </div>
-                <h3>Clients</h3> 
+                <h3>产品数</h3> 
             </div>
 
             <div class="facts two col-md-3 col-sm-6">
@@ -15,7 +15,7 @@
                 <div class="facts-num">
                     <span class="counter">1277</span>
                 </div>
-                <h3>Item Sold</h3> 
+                <h3>资质专利</h3> 
             </div>
 
             <div class="facts three col-md-3 col-sm-6">
@@ -23,7 +23,7 @@
                 <div class="facts-num">
                     <span class="counter">869</span>
                 </div>
-                <h3>Projects</h3> 
+                <h3>人才数</h3> 
             </div>
 
             <div class="facts four col-md-3 col-sm-6">
@@ -31,7 +31,7 @@
                 <div class="facts-num">
                     <span class="counter">76</span>
                 </div>
-                <h3>Awwards</h3> 
+                <h3>——</h3> 
             </div>
 
         </div>

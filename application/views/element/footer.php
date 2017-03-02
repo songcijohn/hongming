@@ -9,32 +9,32 @@
 
                 <div class="img-gallery">
                     <div class="img-container">
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="public/images/gallery/1.jpg">
-                            <img src="public/images/gallery/1.jpg" alt="">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/1.jpg">
+                            <img src="/public/images/gallery/1.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="public/images/gallery/2.jpg">
-                            <img src="public/images/gallery/2.jpg" alt="">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/2.jpg">
+                            <img src="/public/images/gallery/2.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="public/images/gallery/3.jpg">
-                            <img src="public/images/gallery/3.jpg" alt="">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/3.jpg">
+                            <img src="/public/images/gallery/3.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="public/images/gallery/4.jpg">
-                            <img src="public/images/gallery/4.jpg" alt="">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/4.jpg">
+                            <img src="/public/images/gallery/4.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="public/images/gallery/5.jpg">
-                            <img src="public/images/gallery/5.jpg" alt="">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/5.jpg">
+                            <img src="/public/images/gallery/5.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="public/images/gallery/6.jpg">
-                            <img src="public/images/gallery/6.jpg" alt="">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/6.jpg">
+                            <img src="/public/images/gallery/6.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="public/images/gallery/6.jpg">
-                            <img src="public/images/gallery/7.jpg" alt="">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/6.jpg">
+                            <img src="/public/images/gallery/7.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="public/images/gallery/6.jpg">
-                            <img src="public/images/gallery/8.jpg" alt="">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/6.jpg">
+                            <img src="/public/images/gallery/8.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="public/images/gallery/6.jpg">
-                            <img src="public/images/gallery/9.jpg" alt="">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/6.jpg">
+                            <img src="/public/images/gallery/9.jpg" alt="">
                         </a>
                     </div>
                 </div>

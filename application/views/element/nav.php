@@ -11,14 +11,14 @@
                     <span class="icon-bar"></span>
                 </button>
                 <div class="navbar-brand">
-                    <a href="index.html">
-                        <img class="img-responsive" src="public/images/logo.png" alt="logo">
+                    <a href="/">
+                        <img class="img-responsive" src="/public/images/logo.png" alt="logo">
                     </a> 
                 </div>                   
             </div><!--/ Logo end -->
             <nav class="collapse navbar-collapse clearfix" role="navigation">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="dropdown active">
+<!--                    <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">关于宏明 <i class="fa fa-angle-down"></i></a>
                         <div class="dropdown-menu">
                             <ul>
@@ -28,10 +28,11 @@
                                 <li><a href="index-4.html">Home 4</a></li>
                             </ul>
                         </div>
-                    </li>
-                    <li><a href="contact.html">产品中心</a></li>
-                    <li><a href="contact.html">新闻动态</a></li>
-                    <li><a href="contact.html">联系我们</a></li>
+                    </li>-->
+                    <li <?php if($this->uri->uri_string == ''){ ?>class="active" <?php }?>><a href="/">关于宏明</a></li>
+                    <li <?php if($this->uri->uri_string == 'hongming/product'){ ?>class="active" <?php }?>><a href="/hongming/product">产品中心</a></li>
+                    <li <?php if($this->uri->uri_string == 'hongming/news'){ ?>class="active" <?php }?>><a href="/hongming/news">新闻动态</a></li>
+                    <li <?php if($this->uri->uri_string == 'hongming/contact'){ ?>class="active" <?php }?>><a href="/hongming/contact">联系我们</a></li>
                 </ul>
             </nav><!--/ Navigation end -->
         </div><!--/ Row end -->

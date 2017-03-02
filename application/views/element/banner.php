@@ -7,7 +7,7 @@
             <ul class="slides">
                 <li>
                     <div class="overlay2">
-                        <img class="" src="public/images/slider/bg1.jpg" alt="slider">
+                        <img class="" src="/public/images/slider/bg1.jpg" alt="slider">
                     </div>
                     <div class="flex-caption slider-content">
                         <div class="col-md-12 text-center">
@@ -23,7 +23,7 @@
                 </li>
                 <li>
                     <div class="overlay2">
-                        <img class="" src="public/images/slider/bg2.jpg" alt="slider">
+                        <img class="" src="/public/images/slider/bg2.jpg" alt="slider">
                     </div>
                     <div class="flex-caption slider-content">
                         <div class="col-md-12 text-center">
@@ -39,7 +39,7 @@
                 </li>
                 <li>
                     <div class="overlay2">
-                        <img class="" src="public/images/slider/bg3.jpg" alt="slider">
+                        <img class="" src="/public/images/slider/bg3.jpg" alt="slider">
                     </div>
                     <div class="flex-caption slider-content">
                         <div class="col-md-12 text-center">
