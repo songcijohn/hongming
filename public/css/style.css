@@ -148,14 +148,14 @@ a:focus{
 ================================================== */
 
 body, p{
-	font-family: 'Lato', sans-serif;
+	font-family: 'Microsoft YaHei', sans-serif;
 	font-weight: 400; 
 	font-size: 15px;
 	line-height: 1.6em;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'JaapokkiRegular';
+	font-family: 'Microsoft YaHei';
 	text-transform: uppercase;
 	letter-spacing: 0.5px;
 }
@@ -709,7 +709,7 @@ blockquote {
 }
 
 ul.navbar-nav > li > a{
-	font-family: 'JaapokkiRegular';
+	font-family: 'Microsoft YaHei';
   	text-transform: uppercase;
   	font-size: 14px;
 	color: #fff;
