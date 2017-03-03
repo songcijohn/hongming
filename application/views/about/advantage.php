@@ -8,20 +8,12 @@
             <!--/ nav end -->
 
             <!-- Slider start -->
-            <?php $this->view('element/banner'); ?>
+            <?php $this->view('element/banner2'); ?>
             <!--/ Slider end -->
 
             <!-- About tab start -->
-            <?php $this->view('element/about'); ?>
+            <?php $this->view('element/advantage'); ?>
             <!-- About end -->
-
-            <!-- Counter Strat -->
-            <?php $this->view('element/counter'); ?>
-            <!--/ Counter end -->
-
-            <!-- Parallax 2 start -->
-            <?php $this->view('element/parallax_2'); ?>
-            <!-- Parallax 2 end -->
 
             <!-- Footer start -->
             <?php $this->view('element/footer'); ?>

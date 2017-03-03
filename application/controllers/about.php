@@ -28,8 +28,8 @@ class About extends CI_Controller {
 		$this->load->view('about/advantage');
 	}
         
-        public function group()
+        public function history()
 	{
-		$this->load->view('about/group');
+		$this->load->view('about/history');
 	}
 }

@@ -8,7 +8,7 @@
             <!--/ nav end -->
 
             <!-- Slider start -->
-            <?php $this->view('element/banner'); ?>
+            <?php $this->view('element/banner2'); ?>
             <!--/ Slider end -->
 
             <!-- About tab start -->
@@ -24,7 +24,7 @@
             <!--/ copyright end -->
             
             <!-- js start -->
-            <?php $this->view('element/js'); ?>
+            <?php $this->view('product/js'); ?>
             <!--/ js end -->
             
         </div><!-- Body inner end -->
