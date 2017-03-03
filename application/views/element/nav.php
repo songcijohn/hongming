@@ -18,21 +18,27 @@
             </div><!--/ Logo end -->
             <nav class="collapse navbar-collapse clearfix" role="navigation">
                 <ul class="nav navbar-nav navbar-right">
-<!--                    <li class="dropdown active">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">关于宏明 <i class="fa fa-angle-down"></i></a>
+                    <li class="dropdown <?php if($this->uri->uri_string == 'about'){ ?> active <?php }?>">
+                        <a href="/about" class="dropdown-toggle" data-toggle="dropdown">关于宏明 <i class="fa fa-angle-down"></i></a>
                         <div class="dropdown-menu">
                             <ul>
-                                <li><a href="index.html">Home 1</a></li>
-                                <li class="active"><a href="index-2.html">Home 2</a></li>
-                                <li><a href="index-3.html">Home 3</a></li>
-                                <li><a href="index-4.html">Home 4</a></li>
+                                <li <?php if($this->uri->uri_string == 'about'){ ?>class="active" <?php }?>><a href="/about/index">宏明简介</a></li>
+                                <li <?php if($this->uri->uri_string == 'about/advantage'){ ?>class="active" <?php }?>><a href="/about/advantage">宏明优势</a></li>
+                                <li <?php if($this->uri->uri_string == 'about/group'){ ?>class="active" <?php }?>><a href="/about/group">宏明集团</a></li>
                             </ul>
                         </div>
-                    </li>-->
-                    <li <?php if($this->uri->uri_string == ''){ ?>class="active" <?php }?>><a href="/">关于宏明</a></li>
+                    </li>
                     <li <?php if($this->uri->uri_string == 'hongming/product'){ ?>class="active" <?php }?>><a href="/hongming/product">产品中心</a></li>
                     <li <?php if($this->uri->uri_string == 'hongming/news'){ ?>class="active" <?php }?>><a href="/hongming/news">新闻动态</a></li>
-                    <li <?php if($this->uri->uri_string == 'hongming/contact'){ ?>class="active" <?php }?>><a href="/hongming/contact">联系我们</a></li>
+                    <li class="dropdown <?php if($this->uri->uri_string == 'contact'){ ?> active <?php }?>">
+                        <a href="/contact" class="dropdown-toggle" data-toggle="dropdown">联系我们 <i class="fa fa-angle-down"></i></a>
+                        <div class="dropdown-menu">
+                            <ul>
+                                <li <?php if($this->uri->uri_string == 'contact/hr'){ ?>class="active" <?php }?>><a href="/contact/hr">人才招聘</a></li>
+                                <li <?php if($this->uri->uri_string == 'contact'){ ?>class="active" <?php }?>><a href="/contact/index">联系我们</a></li>
+                            </ul>
+                        </div>
+                    </li>
                 </ul>
             </nav><!--/ Navigation end -->
         </div><!--/ Row end -->

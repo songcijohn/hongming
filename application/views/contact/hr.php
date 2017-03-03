@@ -12,8 +12,16 @@
             <!--/ Slider end -->
 
             <!-- About tab start -->
-            <?php $this->view('product/productInfo'); ?>
+            <?php $this->view('element/about'); ?>
             <!-- About end -->
+
+            <!-- Counter Strat -->
+            <?php $this->view('element/counter'); ?>
+            <!--/ Counter end -->
+
+            <!-- Parallax 2 start -->
+            <?php $this->view('element/parallax_2'); ?>
+            <!-- Parallax 2 end -->
 
             <!-- Footer start -->
             <?php $this->view('element/footer'); ?>
