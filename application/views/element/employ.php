@@ -6,9 +6,12 @@
 				</div>
 				<div class="col-md-6 ts-padding img-block-right">
 					<div class="img-block-head text-center">
-						<h2>Know More About Our Company</h2>
-						<h3>Why Choose Us</h3>
-						<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Proin gravida nibh vel velit auctor Aenean sollicitudin, adipisicing elit sed lorem quis bibendum auctor.
+						<h3>加入宏明</h3>
+						<p>参与、合作、忠诚、柔和力是宏明的人力价值观。
+						</p>
+						<p>公司十分重视人才发掘和员工培养，力求公司价值与个人价值能同步发展。
+						</p>
+						<p>我们鼓励员工的学习热情和个人首创精神。
 						</p>
 					</div>
 
