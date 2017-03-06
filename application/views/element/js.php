@@ -1,8 +1,6 @@
 <!-- Javascript Files
             ================================================== -->
 
-<!-- initialize jQuery Library -->
-<script type="text/javascript" src="/public/js/jquery.js"></script>
 <!-- Bootstrap jQuery -->
 <script type="text/javascript" src="/public/js/bootstrap.min.js"></script>
 <!-- Style Switcher -->
@@ -27,6 +25,6 @@
 <!-- Counter -->
 <script type="text/javascript" src="/public/js/jquery.counterup.min.js"></script>
 <!-- Waypoints -->
-<script type="text/javascript" src="/public/js/waypoints.min.js"></script>
+<script type="text/javascript" src="/public/js/waypoints.min.js"></script>   
 <!-- Template custom -->
 <script type="text/javascript" src="/public/js/custom.js"></script>

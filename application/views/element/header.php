@@ -49,6 +49,8 @@
       <script src="/public/js/html5shiv.js"></script>
       <script src="/public/js/respond.min.js"></script>
     <![endif]-->
-
+    
+    <!-- initialize jQuery Library -->
+    <script type="text/javascript" src="/public/js/jquery.js"></script>
 </head>
 
