@@ -33,7 +33,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="copyright-info">
-                    &copy; Copyright 2015 Craft. <span>All Rights Reserved</span>
+                   Copyright &copy; 2017 成都宏明电子股份有限公司
                 </div>
             </div>
         </div><!--/ Row end -->

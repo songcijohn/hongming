@@ -5,11 +5,14 @@
 			<div class="row text-center">
 				<div class="isotope-nav" data-isotope-nav="isotope">
 					<ul>
-						<li><a href="#" class="active" data-filter="*">All</a></li>
-						<li><a href="#" data-filter=".web-design">Web Design</a></li>
-						<li><a href="#" data-filter=".development">Development</a></li>
-						<li><a href="#" data-filter=".joomla">Joomla</a></li>
-						<li><a href="#" data-filter=".wordpress">Wordpress</a></li>
+						<li><a href="#" class="active" data-filter="*">陶瓷电容器</a></li>
+						<li><a href="#" data-filter=".web-design">电位器</a></li>
+						<li><a href="#" data-filter=".development">传感器</a></li>
+						<li><a href="#" data-filter=".joomla">厚膜功率电阻器</a></li>
+						<li><a href="#" data-filter=".wordpress">电源滤波器</a></li>
+						<li><a href="#" data-filter=".wordpress">馈通滤波器</a></li>
+						<li><a href="#" data-filter=".wordpress">有机薄膜电容器、云母电容器</a></li>
+						<li><a href="#" data-filter=".wordpress">PTC、NTC热敏电阻器系列</a></li>
 					</ul>
 				</div>
 			</div><!-- Isotope filter end -->

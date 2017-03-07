@@ -13,10 +13,7 @@
                         <img src="/public/images/alpha/te1.jpg">
                     </span>
                     <span class="cus-name">
-                        Customer
-                        <span class="cus-title">
-                            His title
-                        </span>
+                        航空航天
                     </span>
                 </div>
             </li>
@@ -28,10 +25,7 @@
                         <img src="/public/images/alpha/te2.jpg">
                     </span>
                     <span class="cus-name">
-                        Customer
-                        <span class="cus-title">
-                            His title
-                        </span>
+                        军工设备
                     </span>
                 </div>
             </li>
@@ -43,10 +37,7 @@
                         <img src="/public/images/alpha/te3.jpg">
                     </span>
                     <span class="cus-name">
-                        Customer
-                        <span class="cus-title">
-                            His title
-                        </span>
+                        汽车工艺
                     </span>
                 </div>
             </li>
@@ -58,10 +49,7 @@
                         <img src="/public/images/alpha/te4.jpg">
                     </span>
                     <span class="cus-name">
-                        Customer
-                        <span class="cus-title">
-                            His title
-                        </span>
+                        手机通讯
                     </span>
             </li>
             <span id="prev">

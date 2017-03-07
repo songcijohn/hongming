@@ -20,24 +20,24 @@
 					<div class="image-block-content">
 						<span class="feature-icon pull-left" ><i class="fa fa-bicycle"></i></span>
 						<div class="feature-content">
-							<h3>Tons of Features</h3>
-							<p>Consectetur adipisicing elit sed do eiusmod tempor incididunt ut</p>
+							<h3>企业未来</h3>
+							<p>宏明进入快速发展扩张阶段，秉持以人为本发展观</p>
 						</div>
 					</div><!--/ End 1st block -->
 
 					<div class="image-block-content">
 						<span class="feature-icon pull-left" ><i class="fa fa-diamond"></i></span>
 						<div class="feature-content">
-							<h3>PowerPack Theme</h3>
-							<p>Proin gravida nibh vel velit auctor Aenean sollicitudin adipisicing</p>
+							<h3>薪酬福利</h3>
+							<p>月薪、绩效、五险一金、年休假、文化活动、人文关怀</p>
 						</div>
 					</div><!--/ End 1st block -->
 
 					<div class="image-block-content">
 						<span class="feature-icon pull-left" ><i class="fa fa-street-view"></i></span>
 						<div class="feature-content">
-							<h3>Day Night Support</h3>
-							<p>Simply dummy text and typesettings industry has been the industry</p>
+							<h3>培训发展</h3>
+							<p>职员培训、行业培训、专业培训、多元化职业发展通道</p>
 						</div>
 					</div><!--/ End 1st block -->
 

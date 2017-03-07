@@ -4,11 +4,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <h2>Are You Ready to Buy This Template!</h2>
-                <h3>Just Click Button and Use Your Own</h3>
+                <h2>宏明在各个时期都受到国家各级领导的关注和关怀</h2>
+                <h3>是厚爱，更是鼓舞和鞭策</h3>
                 <p>
-                    <a href="#" class="btn btn-primary white">Purchase Now</a>
-                    <a href="#" class="btn btn-primary solid">Get In Touch</a>
+                    <a href="#" class="btn btn-primary white">宏明简介</a>
+                    <a href="#" class="btn btn-primary solid">宏明历程</a>
                 </p>
             </div>
         </div>

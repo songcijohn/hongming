@@ -4,11 +4,9 @@
     <!-- Subpage title start -->
     <div class="banner-title-content">
         <div class="text-center">
-            <h2>Portfolio Classic</h2>
+            <h2>电子元件先锋 国防工业基石</h2>
             <ul class="breadcrumb">
-                <li>Home</li>
-                <li>Portfolio</li>
-                <li><a href="#"> Portfolio Classic</a></li>
+                <li>连续30年电子元器件百强</a></li>
             </ul>
         </div>
     </div><!-- Subpage title end -->

@@ -43,37 +43,33 @@
             </div><!--/ end flickr -->
 
             <div class="col-md-4 col-sm-12 footer-widget">
-                <h3 class="widget-title">Quick Links</h3>
+                <h3 class="widget-title">快速链接</h3>
 
                 <ul class="unstyled arrow">
-                    <li><a href="#">About CraftTheme</a></li>
-                    <li><a href="#">How We Help</a></li>
-                    <li><a href="#">Upcoming Events</a></li>
-                    <li><a href="#">Customer Support</a></li>
-                    <li><a href="#">Fill a Form</a></li>
-                    <li><a href="#">Latest News</a></li>
-                    <li><a href="#">Features</a></li>
-                    <li><a href="#">Shortcodes</a></li>
-                    <li><a href="#">Portfolio</a></li>
-                    <li><a href="#">404 Error Page</a></li>
-                    <li><a href="#">Coming Soon</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">宏明简介</a></li>
+                    <li><a href="#">产品中心</a></li>
+                    <li><a href="#">宏明优势</a></li>
+                    <li><a href="#">新闻动态</a></li>
+                    <li><a href="#">宏明历程</a></li>
+                    <li><a href="#">联系我们</a></li>
+                    <li><a href="#">集团成员</a></li>
+                    <li><a href="#">人才招聘</a></li>
                 </ul>
 
             </div><!--/ End Recent Posts-->
 
 
             <div class="col-md-3 col-sm-12 footer-widget footer-about-us">
-                <h3 class="widget-title">About Craft</h3>
+                <h3 class="widget-title">关于宏明</h3>
                 <p>We are a awward winning multinational company. We believe in quality and standard worldwide.</p>
-                <p><strong>Address: </strong>1102 Saint Marys, Junction City, KS</p>
+                <p><strong>地址: </strong>四川省成都市龙泉驿区北京路188号</p>
                 <div class="row">
                     <div class="col-md-6">
-                        <strong>Email: </strong>
+                        <strong>邮箱: </strong>
                         <p>info@craftbd.com</p>
                     </div>
                     <div class="col-md-6">
-                        <strong>Phone No.</strong>
+                        <strong>联系电话:</strong>
                         <p>+(785) 238-4131</p>
                     </div>
                 </div>
