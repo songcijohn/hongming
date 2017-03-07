@@ -691,7 +691,7 @@ blockquote {
 }
 
 .navbar-right{
-	padding-right: 0;
+	padding-right: 100px;
 }
 
 .navbar-right .dropdown-menu {
@@ -713,8 +713,8 @@ ul.navbar-nav > li > a{
   	text-transform: uppercase;
   	font-size: 14px;
 	color: #fff;
-	padding-top: 22px;
-	padding-bottom: 20px;
+        padding-top: 13px;
+        padding-bottom: 16px;
 	line-height: 20px;
 }
 
@@ -815,6 +815,7 @@ ul.navbar-nav > li > a i{
 .header2 .navbar-brand{
 	background: none;
 	padding-top: 3px;
+        padding-bottom: 3px;
 }
 
 /*-- Header bgnone fixed --*/

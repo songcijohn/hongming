@@ -12,6 +12,7 @@
             </div><!--/ Logo end -->
             <nav class="collapse navbar-collapse clearfix" role="navigation">
                 <ul class="nav navbar-nav navbar-right">
+                    <li <?php if($this->uri->uri_string == ''){ ?>class="active" <?php }?>><a href="/">首页</a></li>
                     <li class="dropdown <?php if(in_array($this->uri->uri_string, array('about','about/advantage','about/history'))){ ?> active <?php }?>">
                         <a href="/about" class="dropdown-toggle">关于宏明 <i class="fa fa-angle-down"></i></a>
                         <div class="dropdown-menu">
