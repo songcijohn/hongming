@@ -7,10 +7,6 @@
         <ul class="testimonials-line">
             <li class="customer">
                 <div class="testimonial-bubble">
-                    <p>
-                        Li Europan lingues es membres del sam familie. Lor separat existentie
-                        es un myth. Por scientie, musica, sport etc,
-                    </p>
                 </div>
                 <div class="cus-profile">
                     <span class="cus-image">
@@ -26,9 +22,6 @@
             </li>
             <li class="customer">
                 <div class="testimonial-bubble">
-                    <p>
-                        Lor separat existentie es un myth. Por scientie, musica, sport etc,
-                    </p>
                 </div>
                 <div class="cus-profile">
                     <span class="cus-image">
@@ -44,10 +37,6 @@
             </li>
             <li class="customer">
                 <div class="testimonial-bubble">
-                    <p>
-                        Li Europan lingues es membres del sam familie. Lor separat existentie
-                        es un myth. Por scientie, musica, sport etc,
-                    </p>
                 </div>
                 <div class="cus-profile">
                     <span class="cus-image">
@@ -63,10 +52,6 @@
             </li>
             <li class="customer">
                 <div class="testimonial-bubble">
-                    <p>
-                        Li Europan lingues es membres del sam familie. Lor separat existentie
-                        es un myth.
-                    </p>
                 </div>
                 <div class="cus-profile">
                     <span class="cus-image">
