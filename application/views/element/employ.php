@@ -1,3 +1,4 @@
+<div class="gap-40"></div>
 
 	<section id="image-block" class="image-block no-padding">
 		<div class="container-fluid">

@@ -11,15 +11,15 @@
 						<!-- post image start -->
 						<div class="post-image-wrapper">
 							<img src="/public/images/blog/blog1.jpg" class="img-responsive"  alt="" />
-							<span class="blog-date"><a href="#"> May 03, 2015</a></span>
+							<span class="blog-date"><a href="#"> 2015年12月29日</a></span>
 						</div><!-- post image end -->
 						<div class="post-header clearfix">
 							<h2 class="post-title">
-								<a href="blog-item.html">Over the year we have lots of experience</a>
+								<a href="blog-item.html">公司领导对基地视察</a>
 							</h2>
 							<div class="post-meta">
-								<span class="post-meta-author">Posted by <a href="#"> Admin</a></span>
-								<span class="post-meta-cats">in <a href="#"> News</a></span>
+								<span class="post-meta-author">发表自 <a href="#">     宏明记者</a></span>
+								<span class="post-meta-cats">于 <a href="#">    新闻中心</a></span>
 								<div class="pull-right">
 									
 									<span class="post-meta-comments"><a href="#"><i class="fa fa-comment-o"></i> 11</a></span>
@@ -29,10 +29,10 @@
 							</div><!-- post meta end -->
 						</div><!-- post heading end -->
 						<div class="post-body">
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle dolor sit amet.</p>
+							<p>近日，公司董事长何刚、总经理孙道俊到蛟龙基地和龙泉基地进行实地考察调研。与公司副总兼二厂厂长刘尊述分析二厂生产经营形势。与三厂厂长李江研究新能源电容生产线的建设。与四厂厂长章莉讨论村田项目特色 “员工风采”。与品质保障部部长邬建华商议公司检测计量工作的发展创新。</p>
 						</div>
 						<div class="post-footer">
-							<a href="blog-item.html" class="btn btn-primary">Continue Reading <i class="fa fa-angle-double-right">&nbsp;</i></a>
+							<a href="blog-item.html" class="btn btn-primary">阅读详情 <i class="fa fa-angle-double-right">&nbsp;</i></a>
 						</div>
 					</div><!-- 1st post end -->
 
@@ -68,36 +68,6 @@
 							<a href="blog-item.html" class="btn btn-primary">Continue Reading <i class="fa fa-angle-double-right">&nbsp;</i></a>
 						</div>
 					</div><!-- 2nd post end -->
-
-					<!-- 3rd post start -->
-					<div class="post">
-						<!-- post image start -->
-						<div class="post-image-wrapper">
-							<img src="/public/images/blog/blog2.jpg" class="img-responsive"  alt="" />
-							<span class="blog-date"><a href="#"> May 23, 2015</a></span>
-						</div><!-- post image end -->
-						<div class="post-header clearfix">
-							<h2 class="post-title">
-								<a href="blog-item.html">Many web sites still in their infancy</a>
-							</h2>
-							<div class="post-meta">
-								<span class="post-meta-author">Posted by <a href="#"> Admin</a></span>
-								<span class="post-meta-cats">in <a href="#"> News</a></span>
-								<div class="pull-right">
-									
-									<span class="post-meta-comments"><a href="#"><i class="fa fa-comment-o"></i> 11</a></span>
-									<span class="post-meta-hits"><a href="#"><i class="fa fa-heart-o"></i> 62</a></span>
-								</div>
-								
-							</div><!-- post meta end -->
-						</div><!-- post heading end -->
-						<div class="post-body">
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle dolor sit amet.</p>
-						</div>
-						<div class="post-footer">
-							<a href="blog-item.html" class="btn btn-primary">Continue Reading <i class="fa fa-angle-double-right">&nbsp;</i></a>
-						</div>
-					</div><!-- 3rd post end -->
 
 					<div class="paging">
 			            <ul class="pagination">

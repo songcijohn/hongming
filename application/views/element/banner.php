@@ -47,7 +47,7 @@
 	                        	汽车&通讯，科技创新为先
 	                        </h2>
 	                           <h3 class="animated3">
-	                            We Making Difference To Our Daily Life
+	                            We Making Difference To Our Technology in Life
 	                           </h3>
 	                           <p class="animated4"><a href="#" class="slider btn btn-primary white">行业应用</a></p>
 	                       </div>
