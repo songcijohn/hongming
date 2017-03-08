@@ -148,15 +148,15 @@ a:focus{
 ================================================== */
 
 body, p{
-	font-family: 'Microsoft YaHei', sans-serif;
+	font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
 	font-weight: 400; 
 	font-size: 15px;
 	line-height: 1.6em;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Microsoft YaHei';
-	text-transform: uppercase;
+	font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+        text-transform: uppercase;
 	letter-spacing: 0.5px;
 }
 
@@ -709,7 +709,7 @@ blockquote {
 }
 
 ul.navbar-nav > li > a{
-	font-family: 'Microsoft YaHei';
+	font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
   	text-transform: uppercase;
   	font-size: 14px;
 	color: #fff;
@@ -1275,6 +1275,7 @@ ul.navbar-nav > li > a i{
 .landing-tab{
 	position: relative;
 	z-index: 10;
+        padding: 0 50px;
 }
 
 .landing-tab .nav-tabs{
@@ -3367,4 +3368,10 @@ a.close-styler{
 
 .style-switch-wrapper #preset6 {
 	background-color: #8C42BA;
+}
+
+.about-index-img {
+        height: 200px;
+        display: block;
+        margin: 20px auto;
 }
