@@ -15,10 +15,6 @@
             <?php $this->view('element/about'); ?>
             <!-- About end -->
 
-            <!-- Counter Strat -->
-            <?php $this->view('element/counter'); ?>
-            <!--/ Counter end -->
-
             <!-- Parallax 2 start -->
             <?php $this->view('element/parallax_2'); ?>
             <!-- Parallax 2 end -->

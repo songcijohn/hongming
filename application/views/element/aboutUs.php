@@ -76,7 +76,7 @@
 				          	</div>
 				          	<div class="testimonial-content">
 					            <p class="testimonial-text">
-					              Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+					              宏明的未来是一个大的宏明、强的宏明、令人尊敬的宏明。
 					            </p>
 				            	<h3 class="name">何刚<span>集团董事长</span></h3>
 				          	</div>
@@ -109,7 +109,7 @@
 					        </div>
 				          	<div class="testimonial-content">
 					            <p class="testimonial-text">
-					              Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+					              以 责任、勤奋、合作、创新 为工作要求，团结一致，发奋图强。
 					            </p>
 				            	<h3 class="name">刘尊述<span>总经理</span></h3>
 				          	</div>
