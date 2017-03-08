@@ -64,51 +64,61 @@
 			
 		<div class="gap-60"></div>
 
-
-		<!-- Counter Strat -->
-		<div class="ts_counter_bg parallax parallax2">
+		<!-- Testimonial start-->
+		<div class="testimonial parallax parallax3">
 			<div class="parallax-overlay"></div>
-			<div class="container">
-				<div class="row wow fadeInLeft text-center">
-					<div class="facts col-md-3 col-sm-6">
-						<span class="facts-icon"><i class="fa fa-user"></i></span>
-						<div class="facts-num">
-							<span class="counter">900</span>
-						</div>
-						<h3>员工</h3> 
-					</div>
+		  	<div class="container">
+			    <div class="row">
+				    <div id="testimonial-carousel" class="owl-carousel owl-theme text-center testimonial-slide">
+				        <div class="item">
+				          	<div class="testimonial-thumb">
+				            	<img src="/public/images/team/testimonial1.jpg" alt="testimonial">
+				          	</div>
+				          	<div class="testimonial-content">
+					            <p class="testimonial-text">
+					              Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+					            </p>
+				            	<h3 class="name">何刚<span>集团董事长</span></h3>
+				          	</div>
+				        </div>
+				        <div class="item">
+				          	<div class="testimonial-thumb">
+				            	<img src="/public/images/team/testimonial2.jpg" alt="testimonial">
+				          	</div>
+					        <div class="testimonial-content">
+					            <p class="testimonial-text">
+					              Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+					            </p>
+					            <h3 class="name">冉洪汀<span>集团副董事长</span></h3>
+					        </div>
+				        </div>
+				        <div class="item">
+					        <div class="testimonial-thumb">
+					            <img src="/public/images/team/testimonial3.jpg" alt="testimonial">
+					        </div>
+				          	<div class="testimonial-content">
+					            <p class="testimonial-text">
+					              Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+					            </p>
+				            	<h3 class="name">魏竞<span>集团董秘</span></h3>
+				          	</div>
+				        </div>
+						<div class="item">
+					        <div class="testimonial-thumb">
+					            <img src="/public/images/team/testimonial4.jpg" alt="testimonial">
+					        </div>
+				          	<div class="testimonial-content">
+					            <p class="testimonial-text">
+					              Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+					            </p>
+				            	<h3 class="name">刘尊述<span>总经理</span></h3>
+				          	</div>
+				        </div>
+				    </div><!--/ Testimonial carousel end-->
+			    </div><!--/ Row end-->
+		  	</div><!--/  Container end-->
+		</div><!--/ Testimonial end-->
 
-					<div class="facts col-md-3 col-sm-6">
-						<span class="facts-icon"><i class="fa fa-institution"></i></span>
-						<div class="facts-num">
-							<span class="counter">59</span>
-						</div>
-						<h3>历史</h3> 
-					</div>
-
-					<div class="facts col-md-3 col-sm-6">
-						<span class="facts-icon"><i class="fa fa-suitcase"></i></span>
-						<div class="facts-num">
-							<span class="counter">300</span>
-						</div>
-						<h3>产品</h3> 
-					</div>
-
-					<div class="facts col-md-3 col-sm-6">
-						<span class="facts-icon"><i class="fa fa-trophy"></i></span>
-						<div class="facts-num">
-							<span class="counter">220</span>
-						</div>
-						<h3>科技成果</h3> 
-					</div>
-
-					<div class="gap-40"></div>
-
-					<div><a href="#" class="btn btn-primary solid">产品中心</a></div>
-
-				</div><!--/ row end -->
-			</div><!--/ Container end -->
-		</div><!--/ Counter end -->
 
 		<div class="gap-60"></div>
 
