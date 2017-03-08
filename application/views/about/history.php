@@ -1,27 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
     <?php $this->view('element/header'); ?>
+    
     <body>
         <div class="body-inner">
             <!-- nav start -->
             <?php $this->view('element/nav'); ?>
             <!--/ nav end -->
-
+            
             <!-- Slider start -->
-            <?php $this->view('element/banner'); ?>
+            <?php $this->view('element/banner2'); ?>
             <!--/ Slider end -->
 
-            <!-- About tab start -->
-            <?php $this->view('element/about'); ?>
-            <!-- About end -->
-
-            <!-- Counter Strat -->
-            <?php $this->view('element/counter'); ?>
-            <!--/ Counter end -->
-
-            <!-- Parallax 2 start -->
-            <?php $this->view('element/parallax_2'); ?>
-            <!-- Parallax 2 end -->
+            <!-- history tree start -->
+            <?php $this->view('about/history_tree'); ?>
+            <!-- history tree end -->
 
             <!-- Footer start -->
             <?php $this->view('element/footer'); ?>
