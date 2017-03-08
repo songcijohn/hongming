@@ -2,17 +2,6 @@
 
 	<section id="main-container">
 		<div class="container">
-			
-			<div class="row">
-				<!-- Map start here -->
-				<div id="map-wrapper" class="no-padding">
-					<div class="map" id="map"></div>
-				</div><!--/ Map end here -->	
-
-			</div><!-- Content row  end -->
-
-			<div class="gap-40"></div>
-
 			<div class="row">
 	    		<div class="col-md-7">
 	    			<form id="contact-form" action="contact-form.php" method="post" role="form">

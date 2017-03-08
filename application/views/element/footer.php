@@ -74,7 +74,6 @@
                     </div>
                 </div>
                 <br/>
-                <p><a href="#" class="btn btn-primary solid square">Purchase Now <i class="fa fa-long-arrow-right"></i></a></p>
             </div><!--/ end about us -->
         </div><!-- Row end -->
     </div><!-- Container end -->

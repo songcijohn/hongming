@@ -12,7 +12,7 @@
             <!--/ Slider end -->
 
             <!-- About tab start -->
-            <?php $this->view('element/contactInfo'); ?>
+            <?php $this->view('contact/contactInfo'); ?>
             <!-- About end -->
 
             <!-- Footer start -->
