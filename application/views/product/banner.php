@@ -8,42 +8,42 @@
                 <div class="ws_images">
                     <ul>
                         <li>
-                            <a href="#overview">
-                                <img src="/public/images/3d/slide1.png" alt="123" title="" />
+                            <a>
+                                <img src="/public/images/3d/slide1.png"/>
                             </a>
                         </li>
                         <li>
-                            <a href="demo.html">
-                                <img src="/public/images/3d/slide2.png" alt="456" title="标题1234" />
+                            <a>
+                                <img src="/public/images/3d/slide2.png"/>
                             </a>
-                            标题1234
                         </li>
                         <li>
-                            <a href="http://wowslider.com/wowslider-free-setup.zip">
-                                <img src="/public/images/3d/slide3.png" alt="789" title="标题1234" />
+                            <a>
+                                <img src="/public/images/3d/slide3.png"/>
                             </a>
-                            标题1234
                         </li>
                         <li>
+						<!--
                             <iframe width="100%" height="100%" src="https://www.youtube.com/embed/_GOt0sMIZVY?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent"
                                     frameborder="0" allowfullscreen>
                             </iframe>
-                            <img src="/public/images/3d/slide5new.jpg" alt="012" title="" />
+						-->
+                            <img src="/public/images/3d/slide5new.jpg" />
                         </li>
                     </ul>
                 </div>
                 <div class="ws_bullets">
                         <a href="#">
-                            <img src="/public/images/3d/tooltips/slide1.png" alt="CSS3 Slider" />
+                            <img src="/public/images/3d/tooltips/slide1.png" />
                         </a>
                         <a href="#">
-                            <img src="/public/images/3d/tooltips/slide2.png" alt="CSS Slideshow" />
+                            <img src="/public/images/3d/tooltips/slide2.png" />
                         </a>
                         <a href="#">
-                            <img src="/public/images/3d/tooltips/slide3.png" alt="CSS Gallery" />
+                            <img src="/public/images/3d/tooltips/slide3.png" />
                         </a>
                         <a href="#">
-                            <img src="/public/images/3d/tooltips/slide5new.jpg" alt="Video Support" />
+                            <img src="/public/images/3d/tooltips/slide5new.jpg" />
                         </a>
                 </div>
             </div>

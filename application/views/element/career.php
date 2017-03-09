@@ -5,7 +5,7 @@
 				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 
 					<h3 class="title-border">设计师</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, natus voluptatibus adipisci porro magni dolore eos eius ducimus corporis quos perspiciatis quis iste, vitae autem libero ullam omnis cupiditate quam.</p>
+					<p>	负责对公司新设计产品进行结构应力、性能等仿真分析，确保样品一次成功率，是公司重要的技术岗位。</p>
 
 					<div class="panel-group" id="accordionA">
 		              	<div class="panel panel-default">
@@ -36,12 +36,12 @@
 			                <div id="collapseTwo" class="panel-collapse collapse">
 			                  <div class="panel-body">
 			                    <ul class="unstyled arrow">
-									<li>Global Business Development &amp; Strategic Account Management</li>
-									<li>Marketing Research</li>
-									<li>Marketing Collaterals development</li>
-									<li>Business Analysis</li>
-									<li>Manage and execute lead generation activities.</li>
-									<li>Help building marketing strategy, tool and approach by thorough research</li>
+									<li>熟悉行业的生产流程、要求和发展趋势</li>
+									<li>具有良好的报告撰写能力</li>
+									<li>在行业内有丰富的人脉关系，善于社交</li>
+									<li>有极强的口头及书面表达能力和处理人际关系的沟通协调能力</li>
+									<li>诚信正直、自信、认真负责、积极主动；具有团队合作精神</li>
+									<li>具有良好的策划、分析、判断、组织、应变处理问题能力</li>
 								</ul>
 			                  </div>
 			                </div>
@@ -57,10 +57,10 @@
 			                <div id="collapseThree" class="panel-collapse collapse">
 			                  <div class="panel-body">
 			                    <ul class="unstyled arrow">
-									<li>Very Competitive Salary and Long Term Benefits with Excellent Career Opportunity in a Focused &amp; Stable organization.</li>
-									<li>Training on new technology.</li>
-									<li>Overseas Tour with Opportunity to work with Global Companies.</li>
-									<li>Most importantly a friendly work environment with opportunity to learn from a number of highly skilled mentors.</li>
+									<li>优于行业平均水平的薪资待遇</li>
+									<li>完善的五险一金待遇</li>
+									<li>充足的的节假日</li>
+									<li>严谨的职业培训和规划</li>
 								</ul>
 			                  </div>
 			                </div>
@@ -77,7 +77,7 @@
 		         <div class="gap-30"></div>
 
 		   		<h3 class="title-border">工艺师</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, natus voluptatibus adipisci porro magni dolore eos eius ducimus corporis quos perspiciatis quis iste, vitae autem libero ullam omnis cupiditate quam.</p>
+					<p>负责连接器、位移传感器、滤波器、有机电容、高压电容等新产品设计、开发，是公司重要的技术岗位。</p>
 
 					<div class="panel-group" id="accordionB">
 		              	<div class="panel panel-default">
@@ -108,12 +108,11 @@
 			                <div id="collapseB" class="panel-collapse collapse">
 			                  <div class="panel-body">
 			                    <ul class="unstyled arrow">
-									<li>Global Business Development &amp; Strategic Account Management</li>
-									<li>Marketing Research</li>
-									<li>Marketing Collaterals development</li>
-									<li>Business Analysis</li>
-									<li>Manage and execute lead generation activities.</li>
-									<li>Help building marketing strategy, tool and approach by thorough research</li>
+									<li>负责产品工艺文件及作业指导书编制、完善及产品加工过程中的指导</li>
+									<li>负责产品研制过程中产品、设备、材料的工艺管理</li>
+									<li>负责生产工艺过程改进</li>
+									<li>负责产线生产效率的分析和改善</li>
+									<li>负责与客户沟通新产品报价信息，与供应商沟通新设备的导入</li>
 								</ul>
 			                  </div>
 			                </div>
@@ -129,10 +128,10 @@
 			                <div id="collapseC" class="panel-collapse collapse">
 			                  <div class="panel-body">
 			                    <ul class="unstyled arrow">
-									<li>Very Competitive Salary and Long Term Benefits with Excellent Career Opportunity in a Focused &amp; Stable organization.</li>
-									<li>Training on new technology.</li>
-									<li>Overseas Tour with Opportunity to work with Global Companies.</li>
-									<li>Most importantly a friendly work environment with opportunity to learn from a number of highly skilled mentors.</li>
+									<li>优于行业平均水平的薪资待遇</li>
+									<li>完善的五险一金待遇</li>
+									<li>充足的的节假日</li>
+									<li>严谨的职业培训和规划</li>
 								</ul>
 			                  </div>
 			                </div>
