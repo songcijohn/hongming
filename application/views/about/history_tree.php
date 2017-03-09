@@ -3,77 +3,77 @@
 
 <div class="history">
     <div class="start-history">
-        <p class="cc_history">发展简史</p>
+        <p class="cc_history">宏明发展简史</p>
         <p class="next_history">PHYLOGENY</p>
         <div class="history_left">
             <p class="history_L year2006">
-                <span class="history_2006_span">2006</span>
+                <span class="history_2006_span">1958</span>
                 <b class="history_2006_b">
                     <span class="history_l_month">10<br/>月</span>
-                    <span class="history_l_text">开展基于互联网的视频服务业务<br/>CC视频联盟正式公测</span>
+                    <span class="history_l_text">开工典礼<br/>刘少奇视察工厂</span>
                 </b>
             </p>
             <p class="history_L yearalmost">
-                <span class="history_2006_span">2008</span>
+                <span class="history_2006_span">1964</span>
                 <b class="history_2006_b">
                     <span class="history_l_month">10<br/>月</span>
-                    <span class="history_l_text">收购康盛创想<br/>旗下视频建站系supev</span>
+                    <span class="history_l_text">薄一波视察工厂<br/>全国第一支正温度系数热敏电阻器</span>
                 </b>
             </p>
             <p class="history_L year2009">
-                <span class="history_2006_span">2009</span>
+                <span class="history_2006_span">1983</span>
                 <b class="history_2006_b">
                     <span class="history_l_month">04<br/>月</span>
-                    <span class="history_l_text">推出CMedia视频广告平台，<br/>对旗下视频媒体进行整合营销</span>
+                    <span class="history_l_text">经济责任制<br/>CC1、CT1两枚金奖</span>
                 </b>
             </p>
             <p class="history_L yearalmost">
-                <span class="history_2006_span blue">2010</span>
+                <span class="history_2006_span blue">1985</span>
                 <b class="history_2006_b blue">
                     <span class="history_l_month">01<br/>月</span>
-                    <span class="history_l_text">CC视频获得广电总局颁发的<br/>音视频许可证</span>
+                    <span class="history_l_text">朱镕基视察工厂<br/>首次科技大会</span>
                 </b>
             </p>
             <p class="history_L yearalmost">
-                <span class="history_2006_span blue">2011</span>
+                <span class="history_2006_span blue">1997</span>
                 <b class="history_2006_b blue">
                     <span class="history_l_month">08<br/>月</span>
-                    <span class="history_l_text smalltext">CC视频获得由迪士尼旗下思伟投资、IDG、江苏高科技投资集团的<br/>B轮融资2000万美元</span>
+                    <span class="history_l_text smalltext">费孝通视察工厂<br/>“国家863计划电子瓷料研究开发中心”成立</span>
                 </b>
             </p>
             <p class="history_L year2011">
-                <span class="history_2006_span blue">2011</span>
+                <span class="history_2006_span blue">2002</span>
                 <b class="history_2006_b blue">
                     <span class="history_l_month">09<br/>月</span>
-                    <span class="history_l_text">CC视频荣获“2011年<br/>中国云计算最佳应用实践奖”</span>
+                    <span class="history_l_text">东郊工业区结构调整搬迁<br/></span>
                 </b>
             </p>
             <p class="history_L year2011">
-                <span class="history_2006_span blue">2012</span>
+                <span class="history_2006_span blue">2006</span>
                 <b class="history_2006_b blue">
                     <span class="history_l_month">03<br/>月</span>
-                    <span class="history_l_text">CC视频成功举办2012中国<br/>远程教育技术创新与应用论坛</span>
+                    <span class="history_l_text">CAST和LMS目录<br/></span>
                 </b>
             </p>
             <p class="history_L year2011">
-                <span class="history_2006_span yellow">2012</span>
+                <span class="history_2006_span yellow">2010</span>
                 <b class="history_2006_b yellow">
                     <span class="history_l_month">09<br/>月</span>
-                    <span class="history_l_text">CC视频发布视频云<br/>开放战略及API2.0</span>
+                    <span class="history_l_text">宇航级高可靠<br/></span>
                 </b>
             </p>
             <p class="history_L year2013">
-                <span class="history_2006_span yellow">2013</span>
+                <span class="history_2006_span yellow">2012</span>
                 <b class="history_2006_b yellow">
                     <span class="history_l_month">04<br/>月</span>
-                    <span class="history_l_text smalltxt">CC视频成功举办2013（第二届）中国<br/>远程教育技术创新与应用论坛</span>
+                    <span class="history_l_text smalltxt">天宫和神八交汇对接<br/>首次载人交汇对接任务</span>
                 </b>
             </p>
             <p class="history_L yearalmost">
                 <span class="history_2006_span yellow">2015</span>
                 <b class="history_2006_b yellow">
                     <span class="history_l_month">01<br/>月</span>
-                    <span class="history_l_text full">视频直播CC Live发布</span>
+                    <span class="history_l_text full">九鼎投资控股宏明</span>
                 </b>
             </p>
         </div>
@@ -82,73 +82,73 @@
         </div>
         <div class="history_right">
             <p class="history_R history_r_2005">
-                <span class="history_2005_span">2005</span>
+                <span class="history_2005_span">1953</span>
                 <b class="history_2005_b">
                     <span class="history_r_month">04<br/>月</span>
-                    <span class="history_r_text">CC视频成立<br/>并入住北京大学留学生创业园</span>
+                    <span class="history_r_text">第一个五年计划<br/>代号七一五</span>
                 </b>
             </p>
             <p class="history_R yearalmostr">
-                <span class="history_2005_span">2007</span>
+                <span class="history_2005_span">1960</span>
                 <b class="history_2005_b">
                     <span class="history_r_month">12<br/>月</span>
-                    <span class="history_r_text">获得国际著名投资商<br/>IDG VC投资 </span>
+                    <span class="history_r_text">全国18%-22%市场份额<br/>朱德视察工厂 </span>
                 </b>
             </p>
             <p class="history_R yearalmostr">
-                <span class="history_2005_span">2009</span>
+                <span class="history_2005_span">1965</span>
                 <b class="history_2005_b">
                     <span class="history_r_month">01<br/>月</span>
-                    <span class="history_r_text">整合Pocle和SupeV后<br/>推出CCVMS视频建站系统</span>
+                    <span class="history_r_text">更名“国营宏明无线电器材厂”<br/>邓小平、李富春、薄一波视察工厂</span>
                 </b>
             </p>
             <p class="history_R yearalmostr">
-                <span class="history_2005_span">2009</span>
+                <span class="history_2005_span">1984</span>
                 <b class="history_2005_b">
                     <span class="history_r_month">12<br/>月</span>
-                    <span class="history_r_text">CC视频成为Google在大陆地<br/>区第一家视频广告合作伙伴</span>
+                    <span class="history_r_text">江泽民视察工厂<br/>电阻器、有机薄膜电容器生产线</span>
                 </b>
             </p>
             <p class="history_R yearalmostr">
-                <span class="history_2005_span blue">2010</span>
+                <span class="history_2005_span blue">1996</span>
                 <b class="history_2005_b blue_R">
                     <span class="history_r_month">10<br/>月</span>
-                    <span class="history_r_text">CC视频推出基于视频云计算的<br/>第三方服务平台</span>
+                    <span class="history_r_text">国家“双加工程”<br/></span>
                 </b>
             </p>
             <p class="history_R yearalmostr">
-                <span class="history_2005_span blue">2011</span>
+                <span class="history_2005_span blue">2000</span>
                 <b class="history_2005_b blue_R">
                     <span class="history_r_month">08<br/>月</span>
-                    <span class="history_r_text">CC视频参展2011年（第十届）<br/>中国互联网大会</span>
+                    <span class="history_r_text">“成都宏明电子股份有限公司”成立<br/>摩托罗拉授予“业绩优秀奖”</span>
                 </b>
             </p>
             <p class="history_R year211">
-                <span class="history_2005_span blue">2011</span>
+                <span class="history_2005_span blue">2003</span>
                 <b class="history_2005_b blue_R">
                     <span class="history_r_month">11<br/>月</span>
-                    <span class="history_r_text">CC视频荣获<br/>“最佳云服务模式奖”</span>
+                    <span class="history_r_text">“神舟”五号载人飞船发射成功<br/></span>
                 </b>
             </p>
             <p class="history_R yearalmostr">
-                <span class="history_2005_span yellow">2012</span>
+                <span class="history_2005_span yellow">2007</span>
                 <b class="history_2005_b yellow_R">
                     <span class="history_r_month">04<br/>月</span>
-                    <span class="history_r_text">CC视频荣获<br/>“最佳视频服务提供商”</span>
+                    <span class="history_r_text">嫦娥一号卫星、长征三号火箭<br/>三星、黑莓手机建立合作</span>
                 </b>
             </p>
             <p class="history_R year211">
-                <span class="history_2005_span yellow">2012</span>
+                <span class="history_2005_span yellow">2011</span>
                 <b class="history_2005_b yellow_R">
                     <span class="history_r_month">10<br/>月</span>
-                    <span class="history_r_text">CC视频荣获“清科集团中国<br/>最具投资价值50强”荣誉</span>
+                    <span class="history_r_text">首次空间交汇对接<br/>与苹果建立合作</span>
                 </b>
             </p>
             <p class="history_R yearalmostr">
-                <span class="history_2005_span yellow">2014</span>
+                <span class="history_2005_span yellow">2013</span>
                 <b class="history_2005_b yellow_R">
                     <span class="history_r_month">10<br/>月</span>
-                    <span class="history_r_text">CC视频荣获<br/>“最佳教育技术提供商”荣誉</span>
+                    <span class="history_r_text">院士专家工作站<br/></span>
                 </b>
             </p>
         </div>

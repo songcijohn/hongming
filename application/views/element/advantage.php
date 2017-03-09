@@ -8,23 +8,23 @@
 			<div class="row">
 				<div class="col-md-12 heading">
 					<span class="title-icon classic pull-left"><i class="fa fa-cogs"></i></span>
-					<h2 class="title classic">Our Services</h2>
+					<h2 class="title classic">荣誉资质</h2>
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".5s">
 					<div class="service-content">
-						<span class="service-image"><img class="img-responsive" src="/public/images/pages/service-1.jpg" alt="" /></span>
-						<h3>Multipurpose Concept</h3>
+						<span class="service-image"><img class="img-responsive" src="/public/images/pages/award1.jpg" alt="" /></span>
+						<h3>2012年载人航天纪念</h3>
 						<p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
 					</div>
 				</div><!--/ End first service -->
 
 				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".8s" >
 					<div class="service-content">
-						<span class="service-image"><img class="img-responsive" src="/public/images/pages/service-1.jpg" alt="" /></span>
-						<h3>Parallax Section</h3>
+						<span class="service-image"><img class="img-responsive" src="/public/images/pages/award2.jpg" alt="" /></span>
+						<h3>2012最佳合作伙伴</h3>
 						<p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
 					</div>
 					
@@ -32,8 +32,8 @@
 
 				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay="1.1s">
 					<div class="service-content">
-						<span class="service-image"><img class="img-responsive" src="/public/images/pages/service-1.jpg" alt="" /></span>
-						<h3>Light wight Performance</h3>
+						<span class="service-image"><img class="img-responsive" src="/public/images/pages/award3.jpg" alt="" /></span>
+						<h3>2014航天23所</h3>
 						<p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
 					</div>
 				</div><!--/ End Third features -->
@@ -43,6 +43,67 @@
 
 			<!-- Services end -->
 
+			<div class="row">
+				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".5s">
+					<div class="service-content">
+						<span class="service-image"><img class="img-responsive" src="/public/images/pages/award4.jpg" alt="" /></span>
+						<h3>元器件百强</h3>
+						<p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+					</div>
+				</div><!--/ End first service -->
+
+				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".8s" >
+					<div class="service-content">
+						<span class="service-image"><img class="img-responsive" src="/public/images/pages/award5.jpg" alt="" /></span>
+						<h3>军工电子装备科研生产许可证</h3>
+						<p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+					</div>
+					
+				</div><!--/ End Second features -->
+
+				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay="1.1s">
+					<div class="service-content">
+						<span class="service-image"><img class="img-responsive" src="/public/images/pages/award6.jpg" alt="" /></span>
+						<h3>信息工作先进单位</h3>
+						<p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+					</div>
+				</div><!--/ End Third features -->
+
+			</div><!-- Content Row end -->
+
+
+			<!-- Services end -->
+			
+			<div class="row">
+				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".5s">
+					<div class="service-content">
+						<span class="service-image"><img class="img-responsive" src="/public/images/pages/award7.jpg" alt="" /></span>
+						<h3>航天二院型号外购优秀供方</h3>
+						<p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+					</div>
+				</div><!--/ End first service -->
+
+				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".8s" >
+					<div class="service-content">
+						<span class="service-image"><img class="img-responsive" src="/public/images/pages/award8.jpg" alt="" /></span>
+						<h3>业绩优秀奖</h3>
+						<p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+					</div>
+					
+				</div><!--/ End Second features -->
+
+				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay="1.1s">
+					<div class="service-content">
+						<span class="service-image"><img class="img-responsive" src="/public/images/pages/award9.jpg" alt="" /></span>
+						<h3>最佳供方牌匾</h3>
+						<p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+					</div>
+				</div><!--/ End Third features -->
+
+			</div><!-- Content Row end -->
+
+
+			<!-- Services end -->
 
 		</div><!--/ 1st container end -->
 
@@ -87,96 +148,9 @@
 						<h3>科技成果</h3> 
 					</div>
 
-					<div class="gap-40"></div>
-
-					<div><a href="#" class="btn btn-primary solid">产品中心</a></div>
-
 				</div><!--/ row end -->
 			</div><!--/ Container end -->
 		</div><!--/ Counter end -->
 
-		<div class="gap-60"></div>
-
-
-		<div class="container"><!-- 2nd container start -->
-
-		<!-- Pricing table start -->
-		<div id="pricing" class="pricing">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 heading">
-						<span class="title-icon classic pull-left"><i class="fa fa-university"></i></span>
-						<h2 class="title classic">Pricing Table</h2>
-					</div>
-				</div><!-- Title row end -->
-		  		<div class="row">
-					<!-- plan start -->
-					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay=".5s">
-					    <div class="plan text-center">
-					        <span class="plan-name">Basic <small>Monthly plan</small></span>
-					        <p class="plan-price"><sup class="currency">$</sup><strong>49</strong><sub>.99</sub></p>
-					        <ul class="list-unstyled">
-					            <li>100GB Monthly Bandwidth</li>
-					            <li>$100 Google AdWords</li>
-					            <li>100 Domain Hosting</li>
-					            <li>SSL Shopping Cart</li>
-					            <li>24/7 Live Support</li>
-					        </ul>
-					        <a class="btn btn-primary" href="#.">Sign Up</a>
-					    </div>
-					</div><!-- plan end -->
-
-					<!-- plan start -->
-					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1s">
-					    <div class="plan text-center">
-					        <span class="plan-name">Standared <small>Monthly plan</small></span>
-					        <p class="plan-price"><sup class="currency">$</sup><strong>99</strong><sub>.99</sub></p>
-					        <ul class="list-unstyled">
-					            <li>100GB Monthly Bandwidth</li>
-					            <li>$100 Google AdWords</li>
-					            <li>100 Domain Hosting</li>
-					            <li>SSL Shopping Cart</li>
-					            <li>24/7 Live Support</li>
-					        </ul>
-					        <a class="btn btn-primary" href="#.">Sign Up</a>
-					    </div>
-					</div><!-- plan end -->
-
-					<!-- plan start -->
-					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.4s">
-					    <div class="plan text-center featured">
-					        <span class="plan-name">Professional <small>Monthly plan</small></span>
-					        <p class="plan-price"><sup class="currency">$</sup><strong>149</strong><sub>.99</sub></p>
-					        <ul class="list-unstyled">
-					            <li>100GB Monthly Bandwidth</li>
-					            <li>$100 Google AdWords</li>
-					            <li>100 Domain Hosting</li>
-					            <li>SSL Shopping Cart</li>
-					            <li>24/7 Live Support</li>
-					        </ul>
-					        <a class="btn btn-primary" href="#.">Sign Up</a>
-					    </div>
-					</div><!-- plan end -->
-
-					<!-- plan start -->
-					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="1.6s">
-					    <div class="plan text-center">
-					        <span class="plan-name">Premium <small>Monthly plan</small></span>
-					        <p class="plan-price"><sup class="currency">$</sup><strong>399</strong><sub>.99</sub></p>
-					        <ul class="list-unstyled">
-					            <li>100GB Monthly Bandwidth</li>
-					            <li>$100 Google AdWords</li>
-					            <li>100 Domain Hosting</li>
-					            <li>SSL Shopping Cart</li>
-					            <li>24/7 Live Support</li>
-					        </ul>
-					        <a class="btn btn-primary" href="#.">Sign Up</a>
-					    </div>
-					</div><!-- plan end -->
-				</div><!--/ Content row end -->
-			</div><!--/  Container end-->
-		</div><!--/ Pricing table end -->
-
-		</div><!-- 2nd container end -->
 	</section><!--/ Main container end -->
 	

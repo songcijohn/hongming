@@ -53,7 +53,7 @@
                     <li><a href="#">主要控股公司成都宏明双新科技股份有限公司，位于青羊工业集中发展区，从事精密模具、零件的生产。</a></li>
                 </ul>
             </div><!--/ About message end -->
-            <div class="col-md-6 ts-padding about-img" style="height:374px;background:url(/public/images/pages/about-1.jpg) 50% 50% / cover no-repeat;">
+            <div class="col-md-6 ts-padding about-img" style="height:374px;background:url(/public/images/pages/about-3.jpg) 50% 50% / cover no-repeat;">
             </div><!--/ About image end -->
         </div><!--/ Content row end -->
 
@@ -146,7 +146,7 @@
                             <span class="img-bottom"></span>
                         </div>
                         <div class="team-content">
-                            <h4>宏明电子科大新材料有限公司</h4>
+                            <h4>宏明电子股份有限公司</h4>
                             <p>电子元器件</p>
                             <div class="team-social">
                                 <a class="fb" href="#"><i class="fa fa-facebook"></i></a>
@@ -166,8 +166,8 @@
                             <span class="img-bottom"></span>
                         </div>
                         <div class="team-content">
-                            <h4>宏明双新科技股份有限公司</h4>
-                            <p>精密模具</p>
+                            <h4>宏明电子科大新材料有限公司</h4>
+                            <p>电子元器件</p>
                             <div class="team-social">
                                 <a class="fb" href="#"><i class="fa fa-facebook"></i></a>
                                 <a class="twt" href="#"><i class="fa fa-twitter"></i></a>
@@ -186,8 +186,8 @@
                             <span class="img-bottom"></span>
                         </div>
                         <div class="team-content">
-                            <h4>宏明投资发展有限公司</h4>
-                            <p>项目投资管理</p>
+                            <h4>宏明双新科技股份有限公司</h4>
+                            <p>精密模具</p>
                             <div class="team-social">
                                 <a class="fb" href="#"><i class="fa fa-facebook"></i></a>
                                 <a class="twt" href="#"><i class="fa fa-twitter"></i></a>
@@ -198,16 +198,16 @@
                         </div>
                     </div>
                 </div><!--/ Team 3 end -->
-                <div class="col-md-3 col-sm-6">
-                    <div class="team animate wow slideInRight">
+				<div class="col-md-3 col-sm-6">
+                    <div class="team wow slideInRight">
                         <div class="img-hexagon">
                             <img src="/public/images/team/team4.jpg" alt="">
                             <span class="img-top"></span>
                             <span class="img-bottom"></span>
                         </div>
                         <div class="team-content">
-                            <h4>宏明新宸物业管理有限责任公司</h4>
-                            <p>物业管理</p>
+                            <h4>宏明投资发展有限公司</h4>
+                            <p>投资、项目管理</p>
                             <div class="team-social">
                                 <a class="fb" href="#"><i class="fa fa-facebook"></i></a>
                                 <a class="twt" href="#"><i class="fa fa-twitter"></i></a>
@@ -217,7 +217,7 @@
                             </div>
                         </div>
                     </div>
-                </div><!--/ Team 4 end -->
+                </div><!--/ Team 3 end -->
             </div><!--/ Content row end -->
 
         </div><!-- Team end -->

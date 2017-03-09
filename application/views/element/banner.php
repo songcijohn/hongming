@@ -17,7 +17,7 @@
                             <h3 class="animated3">
                                 We Making Difference To Our Space Industry
                             </h3>
-                            <p class="animated4"><a href="#" class="slider btn btn-primary white">行业应用</a></p>
+                            <p class="animated4"><a href="/hongming/product" class="slider btn btn-primary white">行业应用</a></p>
                         </div>
                     </div>
                 </li>
@@ -33,7 +33,7 @@
                             <h3 class="animated3">
                                 We Making Difference To Our Military Industry
                             </h3>
-                            <p class="animated4"><a href="#" class="slider btn btn-primary white">行业应用</a></p>
+                            <p class="animated4"><a href="/hongming/product" class="slider btn btn-primary white">行业应用</a></p>
                         </div>
                     </div>
                 </li>
@@ -49,7 +49,7 @@
 	                           <h3 class="animated3">
 	                            We Making Difference To Our Technology in Life
 	                           </h3>
-	                           <p class="animated4"><a href="#" class="slider btn btn-primary white">行业应用</a></p>
+	                           <p class="animated4"><a href="/hongming/product" class="slider btn btn-primary white">行业应用</a></p>
 	                       </div>
 	                </div>
 				</li>

@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="/public/css/3d/engine.css" type="text/css" media="screen">
 
     <div class="slideshow grid_12">
-        <div class="parallax-overlay"></div>
+
         <div class="holder">
             <!-- 主体部分 -->
             <div id="wowslider-container">
@@ -9,17 +9,17 @@
                     <ul>
                         <li>
                             <a>
-                                <img src="/public/images/3d/slide1.png"/>
+                                <img src="/public/images/3d/slide1.jpg"/>
                             </a>
                         </li>
                         <li>
                             <a>
-                                <img src="/public/images/3d/slide2.png"/>
+                                <img src="/public/images/3d/slide2.jpg"/>
                             </a>
                         </li>
                         <li>
                             <a>
-                                <img src="/public/images/3d/slide3.png"/>
+                                <img src="/public/images/3d/slide3.jpg"/>
                             </a>
                         </li>
                         <li>
@@ -28,22 +28,22 @@
                                     frameborder="0" allowfullscreen>
                             </iframe>
 						-->
-                            <img src="/public/images/3d/slide5new.jpg" />
+                            <img src="/public/images/3d/slide4.jpg" />
                         </li>
                     </ul>
                 </div>
                 <div class="ws_bullets">
                         <a href="#">
-                            <img src="/public/images/3d/tooltips/slide1.png" />
+                            <img src="/public/images/3d/tooltips/slide1.jpg" />
                         </a>
                         <a href="#">
-                            <img src="/public/images/3d/tooltips/slide2.png" />
+                            <img src="/public/images/3d/tooltips/slide2.jpg" />
                         </a>
                         <a href="#">
-                            <img src="/public/images/3d/tooltips/slide3.png" />
+                            <img src="/public/images/3d/tooltips/slide3.jpg" />
                         </a>
                         <a href="#">
-                            <img src="/public/images/3d/tooltips/slide5new.jpg" />
+                            <img src="/public/images/3d/tooltips/slide4.jpg" />
                         </a>
                 </div>
             </div>

@@ -46,14 +46,14 @@
                 <h3 class="widget-title">快速链接</h3>
 
                 <ul class="unstyled arrow">
-                    <li><a href="#">宏明简介</a></li>
-                    <li><a href="#">产品中心</a></li>
-                    <li><a href="#">宏明优势</a></li>
-                    <li><a href="#">新闻动态</a></li>
-                    <li><a href="#">宏明历程</a></li>
-                    <li><a href="#">联系我们</a></li>
-                    <li><a href="#">集团成员</a></li>
-                    <li><a href="#">人才招聘</a></li>
+                    <li><a href="/about/index">宏明简介</a></li>
+                    <li><a href="/hongming/product">产品中心</a></li>
+                    <li><a href="/about/advantage">宏明优势</a></li>
+                    <li><a href="/hongming/news">新闻动态</a></li>
+                    <li><a href="/about/history">宏明历程</a></li>
+                    <li><a href="/contact/index">联系我们</a></li>
+                    <li><a href="/about/index">集团成员</a></li>
+                    <li><a href="/contact/hr">人才招聘</a></li>
                 </ul>
 
             </div><!--/ End Recent Posts-->

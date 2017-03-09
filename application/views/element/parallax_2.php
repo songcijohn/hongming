@@ -1,5 +1,5 @@
 <!-- Parallax 2 start -->
-<section class="parallax parallax2">
+<section class="parallax parallax1">
     <div class="parallax-overlay"></div>
     <div class="container">
         <div class="row">
