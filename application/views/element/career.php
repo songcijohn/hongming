@@ -1,5 +1,4 @@
 	<!-- Main container start -->
-
 	<section id="main-container">
 		<div class="container">
 			<div class="row">

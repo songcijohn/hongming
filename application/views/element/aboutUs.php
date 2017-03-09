@@ -92,17 +92,6 @@
 					            <h3 class="name">冉洪汀<span>集团副董事长</span></h3>
 					        </div>
 				        </div>
-				        <div class="item">
-					        <div class="testimonial-thumb">
-					            <img src="/public/images/team/testimonial3.jpg" alt="testimonial">
-					        </div>
-				          	<div class="testimonial-content">
-					            <p class="testimonial-text">
-					              Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
-					            </p>
-				            	<h3 class="name">魏竞<span>集团董秘</span></h3>
-				          	</div>
-				        </div>
 						<div class="item">
 					        <div class="testimonial-thumb">
 					            <img src="/public/images/team/testimonial4.jpg" alt="testimonial">
@@ -114,6 +103,18 @@
 				            	<h3 class="name">刘尊述<span>总经理</span></h3>
 				          	</div>
 				        </div>
+				        <div class="item">
+					        <div class="testimonial-thumb">
+					            <img src="/public/images/team/testimonial3.jpg" alt="testimonial">
+					        </div>
+				          	<div class="testimonial-content">
+					            <p class="testimonial-text">
+					              Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+					            </p>
+				            	<h3 class="name">魏竞<span>集团董秘</span></h3>
+				          	</div>
+				        </div>
+
 				    </div><!--/ Testimonial carousel end-->
 			    </div><!--/ Row end-->
 		  	</div><!--/  Container end-->

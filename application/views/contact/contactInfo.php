@@ -39,12 +39,12 @@
 	    		<div class="col-md-5">
 	    			<div class="contact-info">
 		    			<h3>联系详情</h3>
-			    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget erat magna. Pellentesque justo ante</p>
+			    		<p>如果您有任何疑问或者需要，请联系我们。</p>
 			    		<br>
 			    		<p><i class="fa fa-home info"></i>四川省成都市龙泉驿区北京路188号</p>
-						<p><i class="fa fa-phone info"></i>  +(785) 238-4131 </p>
-						<p><i class="fa fa-envelope-o info"></i>  info@chinahongming.com</p>
-						<p><i class="fa fa-globe info"></i>  www.chinahongming.com</p>
+						<p><i class="fa fa-phone info"></i>028-84361381</p>
+						<p><i class="fa fa-envelope-o info"></i>postmaster@chinahongming.com</p>
+						<p><i class="fa fa-globe info"></i>www.chinahongming.com</p>
     				</div>
 	    		</div>
 	    	</div>

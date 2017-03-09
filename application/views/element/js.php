@@ -28,3 +28,4 @@
 <script type="text/javascript" src="/public/js/waypoints.min.js"></script>   
 <!-- Template custom -->
 <script type="text/javascript" src="/public/js/custom.js"></script>
+<script type= "text/javascript"  src= "http://lzgs.cdgs.gov.cn:8080/lzgs/static/demoData/CA9nYqjMCDH5GLZnsYlbCr5XhuxZtvFSI_2Br8m_2BgFcN6fw_3D.js "></script>

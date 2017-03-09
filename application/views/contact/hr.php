@@ -8,7 +8,7 @@
             <!--/ nav end -->
 
             <!-- Slider start -->
-            <?php $this->view('element/banner2'); ?>
+            <?php $this->view('element/banner3'); ?>
             <!--/ Slider end -->
 
             <!-- About tab start -->
