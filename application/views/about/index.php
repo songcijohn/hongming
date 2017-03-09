@@ -12,7 +12,7 @@
             <!--/ Slider end -->
 
             <!-- About tab start -->
-            <?php $this->view('element/aboutUs'); ?>
+            <?php $this->view('about/aboutUs'); ?>
             <!-- About end -->
 
             <!-- Footer start -->

@@ -24,7 +24,7 @@
             <!--/ copyright end -->
             
             <!-- js start -->
-            <?php $this->view('product/js'); ?>
+            <?php $this->view('element/js'); ?>
             <!--/ js end -->
             
         </div><!-- Body inner end -->

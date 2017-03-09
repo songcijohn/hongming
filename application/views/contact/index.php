@@ -10,6 +10,10 @@
             <!-- Slider start -->
             <?php $this->view('element/banner2'); ?>
             <!--/ Slider end -->
+            
+            <!-- marketnet start -->
+            <?php $this->view('contact/marketnet'); ?>
+            <!--/ marketnet end -->
 
             <!-- About tab start -->
             <?php $this->view('contact/contactInfo'); ?>
