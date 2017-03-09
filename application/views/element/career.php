@@ -74,7 +74,7 @@
 
 		         <!--/ 1st career end -->
 
-		         <div class="gap-40"></div>
+		         <div class="gap-30"></div>
 
 		   		<h3 class="title-border">工艺师</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, natus voluptatibus adipisci porro magni dolore eos eius ducimus corporis quos perspiciatis quis iste, vitae autem libero ullam omnis cupiditate quam.</p>
