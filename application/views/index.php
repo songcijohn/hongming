@@ -14,6 +14,10 @@
             <!-- About tab start -->
             <?php $this->view('element/about'); ?>
             <!-- About end -->
+            
+            <!-- About tab start -->
+            <?php $this->view('element/slider'); ?>
+            <!-- About end -->
 
             <!-- Parallax 2 start -->
             <?php $this->view('element/parallax_2'); ?>

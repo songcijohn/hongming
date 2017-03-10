@@ -14,7 +14,7 @@
 				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseOne">岗位要求</a> 
 				                </h4>
 			                </div>
-			                <div id="collapseOne" class="panel-collapse collapse in">
+			                <div id="collapseOne" class="panel-collapse collapse">
 			                  <div class="panel-body">
 			                    <ul class="unstyled arrow">
 									<li>本科及以上学历</li>
@@ -86,7 +86,7 @@
 				                	<a data-toggle="collapse" data-parent="#accordionA, #accordionB" href="#collapseA">岗位要求</a> 
 				                </h4>
 			                </div>
-			                <div id="collapseA" class="panel-collapse collapse in">
+			                <div id="collapseA" class="panel-collapse collapse">
 			                  <div class="panel-body">
 			                    <ul class="unstyled arrow">
 									<li>本科及以上学历</li>

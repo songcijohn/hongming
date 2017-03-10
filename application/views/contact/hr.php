@@ -12,11 +12,11 @@
             <!--/ Slider end -->
 
             <!-- About tab start -->
-            <?php $this->view('element/employ'); ?>
+            <?php $this->view('contact/employ'); ?>
             <!-- About end -->
 
 			<!-- About tab start -->
-            <?php $this->view('element/career'); ?>
+            <?php $this->view('contact/career'); ?>
             <!-- About end -->
 			
             <!-- Footer start -->

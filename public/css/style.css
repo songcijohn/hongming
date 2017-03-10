@@ -652,7 +652,7 @@ blockquote {
 
 .header-solid{
 	background: #191919;
-	box-shadow: 0px 1px 7px 0 rgba(0, 0, 0, 0.2); */
+	box-shadow: 0px 1px 7px 0 rgba(0, 0, 0, 0.2); 
 }
 
 .header-solid ul.navbar-nav > li > a{
@@ -1341,6 +1341,7 @@ ul.navbar-nav > li > a i{
 .landing-tab .tab-pane h3{
 	margin-top: 0;
 	line-height: normal;
+        text-align: center;
 }
 
 .landing-tab .tab-pane h3.text-center{
@@ -3374,4 +3375,9 @@ a.close-styler{
         height: 200px;
         display: block;
         margin: 20px auto;
+}
+
+.landing-tab .thumb-holder {
+    display: block;
+    text-align: center;
 }
