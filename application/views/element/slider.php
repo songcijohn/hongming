@@ -1,17 +1,25 @@
 <!-- alpha plugin -->
 <link rel="stylesheet" href="/public/css/slider/slider.css">
 
+        <div class="row">
+            <div class="col-md-12 heading text-center">
+                <h2 class="title2">行业应用
+                   <span class="title-desc">覆盖国防、民生等多行业电子应用</span>
+                </h2>
+            </div>
+        </div><!-- Title row end -->
+		
 <div class="box">
 
     <div class="list">
         <ul>
-            <li class="p7"><a href="#"><img src="/public/images/slider/video-replace-mobile.jpg" alt="" /></a></li>
-            <li class="p6"><a href="#"><img src="/public/images/slider/volvo.jpg" alt="" /></a></li>
-            <li class="p5"><a href="#"><img src="/public/images/slider/rocket.jpg" alt="" /></a></li>
-            <li class="p4"><a href="#"><img src="/public/images/slider/radar.jpg" alt="" /></a></li>
-            <li class="p3"><a href="#"><img src="/public/images/slider/volvo.jpg" alt="" /></a></li>
-            <li class="p2"><a href="#"><img src="/public/images/slider/rocket.jpg" alt="" /></a></li>
-            <li class="p1"><a href="#"><img src="/public/images/slider/radar.jpg" alt="" /></a></li>
+            <li class="p7"><a href="#"><img src="/public/images/slider/slide1.jpg" alt="" /></a></li>
+            <li class="p6"><a href="#"><img src="/public/images/slider/slide2.jpg" alt="" /></a></li>
+            <li class="p5"><a href="#"><img src="/public/images/slider/slide3.jpg" alt="" /></a></li>
+            <li class="p4"><a href="#"><img src="/public/images/slider/slide4.jpg" alt="" /></a></li>
+            <li class="p3"><a href="#"><img src="/public/images/slider/slide5.jpg" alt="" /></a></li>
+            <li class="p2"><a href="#"><img src="/public/images/slider/slide6.jpg" alt="" /></a></li>
+            <li class="p1"><a href="#"><img src="/public/images/slider/slide7.jpg" alt="" /></a></li>
         </ul>
     </div>
 
