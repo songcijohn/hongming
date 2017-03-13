@@ -15,7 +15,7 @@
                                 为国护航，我们初心不改
                             </h2>
                             <h3 class="animated3">
-                                We Making Difference To Our Space Industry
+                                We Make Difference To Space Exploration
                             </h3>
                             <p class="animated4"><a href="/hongming/product" class="slider btn btn-primary white">行业应用</a></p>
                         </div>
@@ -31,7 +31,7 @@
                                 国之重器，宏明军工情
                             </h2>
                             <h3 class="animated3">
-                                We Making Difference To Our Military Industry
+                                We Make Difference To National Defence
                             </h3>
                             <p class="animated4"><a href="/hongming/product" class="slider btn btn-primary white">行业应用</a></p>
                         </div>
@@ -47,7 +47,7 @@
 	                        	汽车&通讯，科技创新为先
 	                        </h2>
 	                           <h3 class="animated3">
-	                            We Making Difference To Our Technology in Life
+	                            We Make Difference To Technology & Innovation
 	                           </h3>
 	                           <p class="animated4"><a href="/hongming/product" class="slider btn btn-primary white">行业应用</a></p>
 	                       </div>

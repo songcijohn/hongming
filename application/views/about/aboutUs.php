@@ -42,7 +42,8 @@
             </div>
             <!--/ About message end -->
         </div><!--/ Content row end -->
-
+		
+<!--/ Content row end 
         <div class="row about-wrapper-top">
             <div class="col-md-6 ts-padding about-message">
                 <h3>宏明基地</h3>
@@ -52,17 +53,17 @@
                     <li><a href="#">主要控股公司成都宏明电子科大新材料有限公司，位于国家成都经济技术开发区（龙泉驿区），从事片式多层瓷介电容器、半导体瓷介电容器、电子陶瓷材料的生产。</a></li>
                     <li><a href="#">主要控股公司成都宏明双新科技股份有限公司，位于青羊工业集中发展区，从事精密模具、零件的生产。</a></li>
                 </ul>
-            </div><!--/ About message end -->
+            </div>
             <div class="col-md-6 ts-padding about-img" style="height:374px;background:url(/public/images/pages/about-3.jpg) 50% 50% / cover no-repeat;">
-            </div><!--/ About image end -->
-        </div><!--/ Content row end -->
+            </div>
+        </div>-->
 
         <!-- Company Profile -->
 
     </div><!--/ 1st container end -->
 
 
-    <div class="gap-60"></div>
+    <div class="gap-20"></div>
 
     <!-- Testimonial start-->
     <div class="testimonial parallax parallax3">
@@ -87,7 +88,7 @@
                         </div>
                         <div class="testimonial-content">
                             <p class="testimonial-text">
-                                Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+                                立足自主创新，坚持技术引进和技术合作，倡导人才兴企。
                             </p>
                             <h3 class="name">冉洪汀<span>集团副董事长</span></h3>
                         </div>
@@ -109,7 +110,7 @@
                         </div>
                         <div class="testimonial-content">
                             <p class="testimonial-text">
-                                Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. Lorem Ipsum is that it as opposed to using.
+                                以开放的姿态迎接世人的关注，以诚挚的态度对待合作交流。
                             </p>
                             <h3 class="name">魏竞<span>集团董秘</span></h3>
                         </div>

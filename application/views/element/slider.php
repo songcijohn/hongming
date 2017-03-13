@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12 heading text-center">
                 <h2 class="title2">行业应用
-                   <span class="title-desc">覆盖国防、民生等多行业电子应用</span>
+                   <span class="title-desc">多元化发展， 覆盖航天、航空、电子、兵器、船舶、通讯、汽车、家电等行业</span>
                 </h2>
             </div>
         </div><!-- Title row end -->
