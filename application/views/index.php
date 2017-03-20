@@ -16,7 +16,7 @@
             <!-- About end -->
             
             <!-- About tab start -->
-            <?php $this->view('element/slider'); ?>
+            <?php //$this->view('element/slider'); ?>
             <!-- About end -->
 
             <!-- Parallax 2 start -->
