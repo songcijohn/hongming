@@ -12,14 +12,14 @@
         </div><!-- Title row end -->
 
         <div class="row about-wrapper-top">
-            <div class="col-md-6 ts-padding about-message">
+            <div class="col-md-6 ta-padding about-message">
                 <h3>宏明简介</h3>
                 <p>成都宏明电子股份有限公司（七一五厂）是以新型电子元器件为主业的大型电子元器件综合性研发生产企业，系国家“一五”时期156项重点建设工程之一。</p>
                 <ul class="unstyled arrow">
-                    <li><a href="#">于1958年6月8日正式开工生产，2000年完成改制并设立为股份有限公司，注册资金8909.6万元。截止2013年末，总资产达15.3亿元。</a></li>
-                    <li><a href="#">1994年通过ISO9002国际质量体系认证，2002年通过ISO9001：2000质量体系认证，2011年通过四川省高新技术企业认证。</a></li>
-                    <li><a href="#">从1987年至今已连续29年荣获中国电子元件百强企业称号。</a></li>
-                    <li><a href="#">2015年公司实现主营收入10.45亿元，实现利润总额9078.59万元。</a></li>
+                    <li><a href="javascrpit:void(0)">于1958年6月8日正式开工生产，2000年完成改制并设立为股份有限公司，注册资金8909.6万元。截止2013年末，总资产达15.3亿元。</a></li>
+                    <li><a href="javascrpit:void(0)">1994年通过ISO9002国际质量体系认证，2002年通过ISO9001：2000质量体系认证，2011年通过四川省高新技术企业认证。</a></li>
+                    <li><a href="javascrpit:void(0)">从1987年至今已连续29年荣获中国电子元件百强企业称号。</a></li>
+                    <li><a href="javascrpit:void(0)">2015年公司实现主营收入10.45亿元，实现利润总额9078.59万元。</a></li>
                 </ul>
             </div><!--/ About message end -->
             <div class="col-md-6 ts-padding about-img" style="height:374px;background:url(/public/images/pages/about-1.jpg) 50% 50% / cover no-repeat;">
@@ -29,15 +29,15 @@
         <div class="row about-wrapper-bottom">
             <div class="col-md-6 ts-padding about-img" style="height:374px;background:url(/public/images/pages/about-2.jpg) 50% 50% / cover no-repeat;">
             </div><!--/ About image end -->
-            <div class="col-md-6 ts-padding about-message">
+            <div class="col-md-6 ta-padding about-message">
                 <h3>宏明产品</h3>
                 <p>产品广泛应用于航空航天、军工、通讯、汽车电子、家电、新能源等领域，为国民经济发展作出了积极贡献。主要有：</p>
                 <ul class="unstyled arrow">
-                    <li><a href="#">圆片瓷介、有机膜、云母电容器；</a></li>
-                    <li><a href="#">电位器；</a></li>
-                    <li><a href="#">正、负温度系数热敏电阻器、温度传感器；</a></li>
-                    <li><a href="#">功率电阻器、EMI滤波器；</a></li>
-                    <li><a href="#">其他电子元件材料；</a></li>
+                    <li><a href="javascrpit:void(0)">圆片瓷介、有机膜、云母电容器；</a></li>
+                    <li><a href="javascrpit:void(0)">电位器；</a></li>
+                    <li><a href="javascrpit:void(0)">正、负温度系数热敏电阻器、温度传感器；</a></li>
+                    <li><a href="javascrpit:void(0)">功率电阻器、EMI滤波器；</a></li>
+                    <li><a href="javascrpit:void(0)">其他电子元件材料；</a></li>
                 </ul>
             </div>
             <!--/ About message end -->

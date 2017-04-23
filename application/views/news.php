@@ -12,7 +12,13 @@
             <!--/ Slider end -->
 
             <!-- About tab start -->
-            <?php $this->view('news/details'); ?>
+            <?php
+            if (isset($num)) {
+                $this->view('news/details', array('num' => $num));
+            } else {
+                $this->view('news/details');
+            }
+            ?>
             <!-- About end -->
 
             <!-- Footer start -->
@@ -22,11 +28,11 @@
             <!-- copyright start -->
             <?php $this->view('element/copyright'); ?>
             <!--/ copyright end -->
-            
+
             <!-- js start -->
-            <?php $this->view('element/js'); ?>
+<           ?php $this->view('element/js'); ?>
             <!--/ js end -->
-            
+
         </div><!-- Body inner end -->
     </body>
 </html>

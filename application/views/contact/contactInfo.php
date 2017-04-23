@@ -32,7 +32,7 @@
 							<textarea class="form-control" name="message" id="message" placeholder="" rows="10" required></textarea>
 						</div>
 						<div class="text-right"><br>
-							<button class="btn btn-primary solid blank" type="submit">发送</button> 
+                                                    <button class="btn btn-primary solid blank" onclick="javascript:alert('暂不支持该功能，请直接发送邮件至rzb@chinahongming.com！')">发送</button> 
 						</div>
 					</form>
 	    		</div>

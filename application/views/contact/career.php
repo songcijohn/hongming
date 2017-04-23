@@ -68,7 +68,7 @@
 
 		              	<div class="gap-20"></div>
 
-						<p><a href="#" class="btn btn-primary solid">立即申请<i class="fa fa-long-arrow-right"></i></a></p>
+						<p><a href="javascript:alert('暂不支持该功能，请直接发送邮件至rzb@chinahongming.com！')" class="btn btn-primary solid">立即申请<i class="fa fa-long-arrow-right"></i></a></p>
 
 		         </div><!--/ Accordion end -->
 
@@ -139,7 +139,7 @@
 
 		              	<div class="gap-20"></div>
 
-						<p><a href="#" class="btn btn-primary solid">立即申请<i class="fa fa-long-arrow-right"></i></a></p>
+						<p><a href="javascript:alert('暂不支持该功能，请直接发送邮件至rzb@chinahongming.com！')" class="btn btn-primary solid">立即申请<i class="fa fa-long-arrow-right"></i></a></p>
 
 		            </div><!--/ Accordion end -->
 

@@ -1,5 +1,5 @@
 <div id="banner-area">
-    <img src="/public/images/banner/banner3.jpg" alt ="" />
+    <img class="banner-img" src="/public/images/banner/banner3.jpg" alt ="" />
     <div class="parallax-overlay"></div>
     <!-- Subpage title start -->
     <div class="banner-title-content">
