@@ -32,4 +32,9 @@ class About extends CI_Controller {
 	{
 		$this->load->view('about/history');
 	}
+        
+        public function data()
+	{
+		$this->load->view('about/data');
+	}
 }

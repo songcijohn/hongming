@@ -20,6 +20,7 @@
                                 <li <?php if($this->uri->uri_string == 'about'){ ?>class="active" <?php }?>><a href="/about/index">宏明简介</a></li>
                                 <li <?php if($this->uri->uri_string == 'about/advantage'){ ?>class="active" <?php }?>><a href="/about/advantage">宏明优势</a></li>
                                 <li <?php if($this->uri->uri_string == 'about/history'){ ?>class="active" <?php }?>><a href="/about/history">宏明历程</a></li>
+                                <li <?php if($this->uri->uri_string == 'about/data'){ ?>class="active" <?php }?>><a href="/about/data">宏明数据</a></li>
                             </ul>
                         </div>
                     </li>
