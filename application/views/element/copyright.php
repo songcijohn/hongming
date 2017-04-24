@@ -5,26 +5,14 @@
             <div class="col-md-12 text-center">
                 <ul class="footer-social unstyled">
                     <li>
-                        <a title="Twitter" href="#">
-                            <span class="icon-pentagon wow bounceIn"><i class="fa fa-twitter"></i></span>
+                        <a title="WeChat" data-rel="prettyPhoto" href="/public/images/gallery/wechat.jpg">
+                            <span class="icon-pentagon wow bounceIn"><i class="fa fa-wechat"></i></span>
                         </a>
-                        <a title="Facebook" href="#">
-                            <span class="icon-pentagon wow bounceIn"><i class="fa fa-facebook"></i></span>
+                        <a title="Tencent" href="#">
+                            <span class="icon-pentagon wow bounceIn"><i class="fa fa-tencent-weibo"></i></span>
                         </a>
-                        <a title="Google+" href="#">
-                            <span class="icon-pentagon wow bounceIn"><i class="fa fa-google-plus"></i></span>
-                        </a>
-                        <a title="linkedin" href="#">
-                            <span class="icon-pentagon wow bounceIn"><i class="fa fa-linkedin"></i></span>
-                        </a>
-                        <a title="Pinterest" href="#">
-                            <span class="icon-pentagon wow bounceIn"><i class="fa fa-pinterest"></i></span>
-                        </a>
-                        <a title="Skype" href="#">
-                            <span class="icon-pentagon wow bounceIn"><i class="fa fa-skype"></i></span>
-                        </a>
-                        <a title="Dribble" href="#">
-                            <span class="icon-pentagon wow bounceIn"><i class="fa fa-dribbble"></i></span>
+                        <a title="QQ" href="#">
+                            <span class="icon-pentagon wow bounceIn"><i class="fa fa-qq"></i></span>
                         </a>
                     </li>
                 </ul>
