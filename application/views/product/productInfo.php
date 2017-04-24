@@ -51,11 +51,11 @@
 					<div class="col-sm-3 capacitor isotope-item">
 						<div class="grid">
 							<figure class="effect-oscar">
-								<img src="/public/images/portfolio/kt.jpg" alt="">
+								<img src="/public/images/portfolio/cj.jpg" alt="">
 								<figcaption>
 									<h3>瓷介电容器</h3>
-									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-1.jpg"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-2.jpg"><i class="fa fa-search"></i></a>            
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/cj-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/cj-2.jpg"><i class="fa fa-search"></i></a>            
 								</figcaption>			
 							</figure>
 						</div>
@@ -77,11 +77,11 @@
 					<div class="col-sm-3 resistor2 isotope-item">
 						<div class="grid">
 							<figure class="effect-oscar">
-								<img src="/public/images/portfolio/kt.jpg" alt="">
+								<img src="/public/images/portfolio/gl.jpg" alt="">
 								<figcaption>
 									<h3>功率电阻器</h3>
-									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-1.jpg"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-2.jpg"><i class="fa fa-search"></i></a>            
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/gl-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/gl-2.jpg"><i class="fa fa-search"></i></a>            
 								</figcaption>					
 							</figure>
 						</div>
@@ -116,11 +116,11 @@
 					<div class="col-sm-3 connector isotope-item">
 						<div class="grid">
 							<figure class="effect-oscar">
-								<img src="/public/images/portfolio/kt.jpg" alt="">
+								<img src="/public/images/portfolio/ljq.jpg" alt="">
 								<figcaption>
 									<h3>连接器</h3>
-									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-1.jpg"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-2.jpg"><i class="fa fa-search"></i></a>            
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/ljq-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/ljq-2.jpg"><i class="fa fa-search"></i></a>            
 								</figcaption>					
 							</figure>
 						</div>
@@ -129,11 +129,50 @@
 					<div class="col-sm-3 potentiometer isotope-item">
 						<div class="grid">
 							<figure class="effect-oscar">
-								<img src="/public/images/portfolio/dw.jpg" alt="">
+								<img src="/public/images/portfolio/fjc.jpg" alt="">
 								<figcaption>
-									<h3>电位器</h3>
-									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/dw-1.jpg"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/dw-2.jpg"><i class="fa fa-search"></i></a>            
+									<h3>非接触电位器</h3>
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/fjc-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/fjc-2.jpg"><i class="fa fa-search"></i></a>            
+								</figcaption>					
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					
+										<div class="col-sm-3 potentiometer isotope-item">
+						<div class="grid">
+							<figure class="effect-oscar">
+								<img src="/public/images/portfolio/bly.jpg" alt="">
+								<figcaption>
+									<h3>精密玻璃釉电位器</h3>
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/bly-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/bly-2.jpg"><i class="fa fa-search"></i></a>            
+								</figcaption>					
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					
+										<div class="col-sm-3 potentiometer isotope-item">
+						<div class="grid">
+							<figure class="effect-oscar">
+								<img src="/public/images/portfolio/ddsl.jpg" alt="">
+								<figcaption>
+									<h3>精密导电塑料电位器</h3>
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/ddsl-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/ddsl-2.jpg"><i class="fa fa-search"></i></a>            
+								</figcaption>					
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					
+										<div class="col-sm-3 potentiometer isotope-item">
+						<div class="grid">
+							<figure class="effect-oscar">
+								<img src="/public/images/portfolio/xr.jpg" alt="">
+								<figcaption>
+									<h3>精密线绕电位器</h3>
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/xr-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/xr-2.jpg"><i class="fa fa-search"></i></a>            
 								</figcaption>					
 							</figure>
 						</div>
@@ -142,11 +181,11 @@
 					<div class="col-sm-3 sensor isotope-item">
 						<div class="grid">
 							<figure class="effect-oscar">
-								<img src="/public/images/portfolio/kt.jpg" alt="">
+								<img src="/public/images/portfolio/jwy.jpg" alt="">
 								<figcaption>
 									<h3>角位移传感器</h3>
-									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-1.jpg"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-2.jpg"><i class="fa fa-search"></i></a>            
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/jwy-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/jwy-2.jpg"><i class="fa fa-search"></i></a>            
 								</figcaption>					
 							</figure>
 						</div>
@@ -154,11 +193,11 @@
 					<div class="col-sm-3 sensor isotope-item">
 						<div class="grid">
 							<figure class="effect-oscar">
-								<img src="/public/images/portfolio/kt.jpg" alt="">
+								<img src="/public/images/portfolio/xwy.jpg" alt="">
 								<figcaption>
 									<h3>线位移传感器</h3>
-									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-1.jpg"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-2.jpg"><i class="fa fa-search"></i></a>            
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/xwy-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/xwy-2.jpg"><i class="fa fa-search"></i></a>            
 								</figcaption>					
 							</figure>
 						</div>
@@ -166,11 +205,11 @@
 					<div class="col-sm-3 sensor isotope-item">
 						<div class="grid">
 							<figure class="effect-oscar">
-								<img src="/public/images/portfolio/kt.jpg" alt="">
+								<img src="/public/images/portfolio/wd.jpg" alt="">
 								<figcaption>
 									<h3>温度传感器</h3>
-									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-1.jpg"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-2.jpg"><i class="fa fa-search"></i></a>            
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/wd-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/wd-2.jpg"><i class="fa fa-search"></i></a>            
 								</figcaption>					
 							</figure>
 						</div>
@@ -179,11 +218,11 @@
 					<div class="col-sm-3 sensor isotope-item">
 						<div class="grid">
 							<figure class="effect-oscar">
-								<img src="/public/images/portfolio/kt.jpg" alt="">
+								<img src="/public/images/portfolio/ll.jpg" alt="">
 								<figcaption>
 									<h3>流量传感器</h3>
-									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-1.jpg"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-2.jpg"><i class="fa fa-search"></i></a>            
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/ll-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/ll-2.jpg"><i class="fa fa-search"></i></a>            
 								</figcaption>					
 							</figure>
 						</div>
@@ -192,11 +231,11 @@
 					<div class="col-sm-3 emc isotope-item">
 						<div class="grid">
 							<figure class="effect-oscar">
-								<img src="/public/images/portfolio/kt.jpg" alt="">
+								<img src="/public/images/portfolio/dy.jpg" alt="">
 								<figcaption>
 									<h3>电磁兼容服务</h3>
-									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-1.jpg"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/kt-2.jpg"><i class="fa fa-search"></i></a>            
+									<a class="link icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/dy-1.jpg"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="/public/images/portfolio/dy-2.jpg"><i class="fa fa-search"></i></a>            
 								</figcaption>					
 							</figure>
 						</div>

@@ -27,13 +27,13 @@
                         <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/6.jpg">
                             <img src="/public/images/gallery/6.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/6.jpg">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/7.jpg">
                             <img src="/public/images/gallery/7.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/6.jpg">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/8.jpg">
                             <img src="/public/images/gallery/8.jpg" alt="">
                         </a>
-                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/6.jpg">
+                        <a class="thumb-holder" data-rel="prettyPhoto" href="/public/images/gallery/9.jpg">
                             <img src="/public/images/gallery/9.jpg" alt="">
                         </a>
                     </div>
@@ -52,8 +52,9 @@
                     <li><a href="/hongming/news">新闻动态</a></li>
                     <li><a href="/about/history">宏明历程</a></li>
                     <li><a href="/contact/index">联系我们</a></li>
-                    <li><a href="/about/index">集团成员</a></li>
+                    <li><a href="/about/index">宏明数据</a></li>
                     <li><a href="/contact/hr">人才招聘</a></li>
+					<li><a href="/about/index">集团成员</a></li>
                 </ul>
 
             </div><!--/ End Recent Posts-->

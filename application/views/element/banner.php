@@ -12,7 +12,7 @@
                     <div class="flex-caption slider-content">
                         <div class="col-md-12 text-center">
                             <h2 class="animated2">
-                                为国护航，我们初心不改
+                                电子元件先锋
                             </h2>
                             <h3 class="animated3">
                                 We Make Difference To Space Exploration
@@ -28,7 +28,7 @@
                     <div class="flex-caption slider-content">
                         <div class="col-md-12 text-center">
                             <h2 class="animated2">
-                                国之重器，宏明军工情
+                                国防工业基石
                             </h2>
                             <h3 class="animated3">
                                 We Make Difference To National Defence

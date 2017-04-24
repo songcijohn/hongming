@@ -10,8 +10,8 @@
 
             var xData = function() {
                 var data = [];
-                for (var i = 1; i < 13; i++) {
-                    data.push(i + "月份");
+                for (var i = 2012; i < 2017; i++) {
+                    data.push(i + "年");
                 }
                 return data;
             }();
@@ -19,8 +19,8 @@
             echart1.setOption(option = {
                 backgroundColor: "#344b58",
                 "title": {
-                    "text": "智能手环消费人数统计",
-                    "subtext": "云承养老公司出品",
+                    "text": "宏明电子增长统计",
+                    "subtext": "宏明集团出品",
                     x: "4%",
                     textStyle: {
                         color: '#fff',
@@ -55,7 +55,7 @@
                     textStyle: {
                         color: '#90979c',
                     },
-                    "data": ['女', '男', '平均']
+                    "data": ['宏明电子', '宏科电子', '利润']
                 },
                 "calculable": true,
                 "xAxis": [{
@@ -126,7 +126,7 @@
                         "end": 35
                     }],
                 "series": [{
-                        "name": "女",
+                        "name": "宏明电子",
                         "type": "bar",
                         "stack": "总量",
                         "barMaxWidth": 35,
@@ -147,13 +147,6 @@
                             }
                         },
                         "data": [
-                            709,
-                            1917,
-                            2455,
-                            2610,
-                            1719,
-                            1433,
-                            1544,
                             3285,
                             5208,
                             3372,
@@ -162,7 +155,7 @@
                         ],
                     },
                     {
-                        "name": "男",
+                        "name": "宏科电子",
                         "type": "bar",
                         "stack": "总量",
                         "itemStyle": {
@@ -179,13 +172,6 @@
                             }
                         },
                         "data": [
-                            327,
-                            1776,
-                            507,
-                            1200,
-                            800,
-                            482,
-                            204,
                             1390,
                             1001,
                             951,
@@ -212,13 +198,6 @@
                             }
                         },
                         "data": [
-                            1036,
-                            3693,
-                            2962,
-                            3810,
-                            2519,
-                            1915,
-                            1748,
                             4675,
                             6209,
                             4323,
@@ -232,7 +211,7 @@
             // 基于准备好的dom，初始化echarts实例
             var echart2 = echarts.init(document.getElementById('echart2'));
 
-            var countries = ['养老中心', '独立社区', '加盟商家', '智能手环'];
+            var countries = ['宏明电子', '宏科电子', '宏明双新', '投资物业管理公司'];
             var years = ['2017年', '2018年', '2019年', '2020年'];
 
             var data = [
@@ -363,7 +342,7 @@
                     },
                     xAxis: {
                         type: 'value',
-                        name: '发展完善率',
+                        name: '年份',
                         nameGap: 25,
                         min: 0,
                         max: getMax(0),
@@ -392,7 +371,7 @@
                     },
                     yAxis: {
                         type: 'value',
-                        name: '监管率 ',
+                        name: '利润环比增长率 ',
                         nameGap: 25,
                         min: 0,
                         max: getMax(1),
