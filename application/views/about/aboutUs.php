@@ -150,11 +150,9 @@
                             <h4><a  href="http://www.chinahongming.com/" target="_blank">宏明电子股份有限公司<a></h4>
                             <p>电子元器件</p>
                             <div class="team-social">
-                                <a class="fb" href="#"><i class="fa fa-facebook"></i></a>
-                                <a class="twt" href="#"><i class="fa fa-twitter"></i></a>
-                                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                                <a class="linkdin" href="#"><i class="fa fa-linkedin"></i></a>
-                                <a class="dribble" href="#"><i class="fa fa-dribbble"></i></a>
+                                <a class="fb" href="#"><i class="fa fa-wechat"></i></a>
+                                <a class="twt" href="#"><i class="fa fa-tencent-weibo"></i></a>
+                                <a class="gplus" href="#"><i class="fa fa-qq"></i></a>
                             </div>
                         </div>
                     </div>	
@@ -170,11 +168,9 @@
 							<h4><a  href="http://www.chinahongke.com/" target="_blank">宏明电子科大新材料有限公司<a></h4>
                             <p>电子元器件</p>
                             <div class="team-social">
-                                <a class="fb" href="#"><i class="fa fa-facebook"></i></a>
-                                <a class="twt" href="#"><i class="fa fa-twitter"></i></a>
-                                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                                <a class="linkdin" href="#"><i class="fa fa-linkedin"></i></a>
-                                <a class="dribble" href="#"><i class="fa fa-dribbble"></i></a>
+                                <a class="fb" href="#"><i class="fa fa-wechat"></i></a>
+                                <a class="twt" href="#"><i class="fa fa-tencent-weibo"></i></a>
+                                <a class="gplus" href="#"><i class="fa fa-qq"></i></a>
                             </div>
                         </div>
                     </div>
@@ -190,11 +186,9 @@
 							<h4><a  href="http://www.cnhomin.com/" target="_blank">宏明双新科技股份有限公司<a></h4>
                             <p>精密模具</p>
                             <div class="team-social">
-                                <a class="fb" href="#"><i class="fa fa-facebook"></i></a>
-                                <a class="twt" href="#"><i class="fa fa-twitter"></i></a>
-                                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                                <a class="linkdin" href="#"><i class="fa fa-linkedin"></i></a>
-                                <a class="dribble" href="#"><i class="fa fa-dribbble"></i></a>
+                                <a class="fb" href="#"><i class="fa fa-wechat"></i></a>
+                                <a class="twt" href="#"><i class="fa fa-tencent-weibo"></i></a>
+                                <a class="gplus" href="#"><i class="fa fa-qq"></i></a>
                             </div>
                         </div>
                     </div>
@@ -207,14 +201,12 @@
                             <span class="img-bottom"></span>
                         </div>
                         <div class="team-content">
-                            <h4>宏明投资发展有限公司</h4>
-                            <p>投资、项目管理</p>
+							<h4><a  href="http://www.cnelecom.net/" target="_blank">《电子元件与材料》<a></h4>
+                            <p>权威杂志</p>
                             <div class="team-social">
-                                <a class="fb" href="#"><i class="fa fa-facebook"></i></a>
-                                <a class="twt" href="#"><i class="fa fa-twitter"></i></a>
-                                <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-                                <a class="linkdin" href="#"><i class="fa fa-linkedin"></i></a>
-                                <a class="dribble" href="#"><i class="fa fa-dribbble"></i></a>
+                                <a class="fb" href="#"><i class="fa fa-wechat"></i></a>
+                                <a class="twt" href="#"><i class="fa fa-tencent-weibo"></i></a>
+                                <a class="gplus" href="#"><i class="fa fa-qq"></i></a>
                             </div>
                         </div>
                     </div>

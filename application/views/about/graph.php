@@ -18,7 +18,7 @@
             echart1.setOption(option = {
                 backgroundColor: "#344b58",
                 "title": {
-                    "text": "宏明电子增长统计",
+                    "text": "宏明收入统计",
                     "subtext": "宏明集团出品",
                     x: "4%",
                     textStyle: {
@@ -54,7 +54,7 @@
                     textStyle: {
                         color: '#90979c',
                     },
-                    "data": ['宏明电子', '宏科电子', '利润']
+                    "data": ['宏明电子', '宏科电子', '宏明双新','收入']
                 },
                 "calculable": true,
                 "xAxis": [{
@@ -163,7 +163,7 @@
                                 "barBorderRadius": 0,
                                 "label": {
                                     "show": true,
-                                    "position": "top",
+                                    "position": "insideTop",
                                     formatter: function(p) {
                                         return p.value > 0 ? (p.value) : '';
                                     }
@@ -178,6 +178,30 @@
                             220
                         ]
                     }, {
+                        "name": "宏明双新",
+                        "type": "bar",
+                        "stack": "总量",
+                        "itemStyle": {
+                            "normal": {
+                                "color": "rgba(150,240,130,1)",
+                                "barBorderRadius": 0,
+                                "label": {
+                                    "show": true,
+                                    "position": "top",
+                                    formatter: function(p) {
+                                        return p.value > 0 ? (p.value) : '';
+                                    }
+                                }
+                            }
+                        },
+                        "data": [
+                            1000,
+                            1000,
+                            1000,
+                            1000,
+                            1000
+                        ]
+                    },{
                         "name": "总数",
                         "type": "line",
                         "stack": "总量",
@@ -197,11 +221,11 @@
                             }
                         },
                         "data": [
-                            4675,
+                            5675,
                             6209,
-                            4323,
-                            2865,
-                            4298
+                            5323,
+                            3865,
+                            5298
                         ]
                     },
                 ]

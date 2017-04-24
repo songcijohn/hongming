@@ -16,16 +16,14 @@
             <div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".5s">
                 <div class="service-content">
                     <span class="service-image"><img class="img-responsive" src="/public/images/pages/award1.jpg" alt="" /></span>
-                    <h3>2012年载人航天纪念</h3>
-                    <p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+                    <h3>2010年行业副理事长单位</h3>
                 </div>
             </div><!--/ End first service -->
 
             <div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".8s" >
                 <div class="service-content">
                     <span class="service-image"><img class="img-responsive" src="/public/images/pages/award2.jpg" alt="" /></span>
-                    <h3>2012最佳合作伙伴</h3>
-                    <p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+                    <h3>中航工业金牌供应商</h3>
                 </div>
 
             </div><!--/ End Second features -->
@@ -33,8 +31,7 @@
             <div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay="1.1s">
                 <div class="service-content">
                     <span class="service-image"><img class="img-responsive" src="/public/images/pages/award3.jpg" alt="" /></span>
-                    <h3>2014航天23所</h3>
-                    <p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+                    <h3>航天科工优秀合作单位</h3>
                 </div>
             </div><!--/ End Third features -->
 
@@ -48,7 +45,6 @@
                 <div class="service-content">
                     <span class="service-image"><img class="img-responsive" src="/public/images/pages/award4.jpg" alt="" /></span>
                     <h3>元器件百强</h3>
-                    <p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
                 </div>
             </div><!--/ End first service -->
 
@@ -56,7 +52,6 @@
                 <div class="service-content">
                     <span class="service-image"><img class="img-responsive" src="/public/images/pages/award5.jpg" alt="" /></span>
                     <h3>军工电子装备科研生产许可证</h3>
-                    <p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
                 </div>
 
             </div><!--/ End Second features -->
@@ -65,7 +60,6 @@
                 <div class="service-content">
                     <span class="service-image"><img class="img-responsive" src="/public/images/pages/award6.jpg" alt="" /></span>
                     <h3>信息工作先进单位</h3>
-                    <p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
                 </div>
             </div><!--/ End Third features -->
 
@@ -78,16 +72,14 @@
             <div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".5s">
                 <div class="service-content">
                     <span class="service-image"><img class="img-responsive" src="/public/images/pages/award7.jpg" alt="" /></span>
-                    <h3>航天二院型号外购优秀供方</h3>
-                    <p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+                    <h3>航天项目优秀供应商</h3>
                 </div>
             </div><!--/ End first service -->
 
             <div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".8s" >
                 <div class="service-content">
                     <span class="service-image"><img class="img-responsive" src="/public/images/pages/award8.jpg" alt="" /></span>
-                    <h3>业绩优秀奖</h3>
-                    <p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+                    <h3>航天项目优秀供应商</h3>
                 </div>
 
             </div><!--/ End Second features -->
@@ -95,8 +87,7 @@
             <div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay="1.1s">
                 <div class="service-content">
                     <span class="service-image"><img class="img-responsive" src="/public/images/pages/award9.jpg" alt="" /></span>
-                    <h3>最佳供方牌匾</h3>
-                    <p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor sollicitudin, adipisicing elit sed lorem quis bibendum auctor.</p>
+                    <h3>元器件合格供应商</h3>
                 </div>
             </div><!--/ End Third features -->
 
