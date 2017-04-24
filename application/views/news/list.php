@@ -1,5 +1,26 @@
+<!-- 1st post start -->
+<div class="post">
+    <!-- post image start -->
+    <div class="post-image-wrapper">
+        <img src="/public/images/blog/blog4.jpg" class="img-responsive"  alt="" />
+        <span class="blog-date"><a href="/news/item/4"> 2017年3月4日</a></span>
+    </div><!-- post image end -->
+    <div class="post-header clearfix">
+        <h2 class="post-title">
+            <a href="/news/item/4">宏明电子对阵四川九牛足球联谊赛</a>
+        </h2>
+        <div class="post-meta">
+            <span class="post-meta-author">发表自 宏明记者</span>
 
-
+        </div><!-- post meta end -->
+    </div><!-- post heading end -->
+    <div class="post-body">
+        <p>2017年3月4日下午，成都宏明电子对阵四川九牛足球联谊赛于成都谢菲联足球俱乐部进行，宏明董事长何刚到场观看比赛，为运动员加油并鼓励大家工作之余不忘健康生活。</p>
+    </div>
+    <div class="post-footer">
+        <a href="/news/item/1" class="btn btn-primary">阅读详情 <i class="fa fa-angle-double-right">&nbsp;</i></a>
+    </div>
+</div><!-- 1st post end -->
 <!-- 1st post start -->
 <div class="post">
     <!-- post image start -->
@@ -17,7 +38,7 @@
         </div><!-- post meta end -->
     </div><!-- post heading end -->
     <div class="post-body">
-        <p>近日，公司董事长何刚、总经理孙道俊到蛟龙基地和龙泉基地进行实地考察调研。与公司副总兼二厂厂长刘尊述分析二厂生产经营形势。与三厂厂长李江研究新能源电容生产线的建设。与四厂厂长章莉讨论村田项目特色 “员工风采”。与品质保障部部长邬建华商议公司检测计量工作的发展创新。</p>
+        <p>近日，公司董事长何刚到蛟龙基地和龙泉基地进行实地考察调研。</p>
     </div>
     <div class="post-footer">
         <a href="/news/item/1" class="btn btn-primary">阅读详情 <i class="fa fa-angle-double-right">&nbsp;</i></a>
@@ -41,7 +62,7 @@
         </div><!-- post meta end -->
     </div><!-- post heading end -->
     <div class="post-body">
-        <p>2016年3月9日上午，公司在20楼会议室召开了由北大纵横咨询公司开展的“宏明电子变革咨询项目启动”动员会。公司中层以上干部，宏科公司、宏明双新公司高层领导参加了会议。会议由副总经理魏竞主持，董事长何刚作动员，总经理孙道俊在会上讲话。北大纵横高级合伙人夏晓荣介绍了北大纵横公司的情况。</p>
+        <p>2016年3月9日上午，召开了由北大纵横咨询公司开展的“宏明电子变革咨询项目启动”动员会。</p>
     </div>
     <div class="post-footer">
         <a href="/news/item/2" class="btn btn-primary">阅读详情 <i class="fa fa-angle-double-right">&nbsp;</i></a>

@@ -29,6 +29,21 @@
                         <div class="tab-content">
                             <div class="tab-pane active" id="popular-tab">
                                 <ul class="posts-list unstyled clearfix">
+								    <li>
+                                        <div class="posts-thumb pull-left"> 
+                                            <a href="/news/item/4"> 
+                                                <img alt="img" src="/public/images/blog/blog4.jpg">
+                                            </a> 
+                                        </div>
+                                        <div class="post-content">
+                                            <h4 class="entry-title"><a href="/news/item/4">宏明电子对阵四川九牛足球联谊赛 </a>
+                                            </h4>
+                                            <p class="post-meta">
+                                                <span class="post-meta-author">发表自 宏明记者</span>
+                                            </p>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </li><!-- First post end-->
                                     <li>
                                         <div class="posts-thumb pull-left"> 
                                             <a href="/news/item/1"> 
